@@ -1,6 +1,6 @@
 # Generics und Polymorphie
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -17,6 +17,8 @@
 > auch `U[] extends O[]` … (Dies nennt man “*kovariantes*” Verhalten.)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -163,9 +165,7 @@ werden.
 - Oracle Corporation ([2022b](#ref-Java-SE-Tutorial))
 - Bloch ([2018](#ref-Bloch2018))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -175,6 +175,8 @@ werden.
 > - k3: Umgang mit Arrays und generischen Typen
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

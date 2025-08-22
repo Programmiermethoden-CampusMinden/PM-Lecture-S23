@@ -1,6 +1,6 @@
 # Flyweight-Pattern
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -21,6 +21,8 @@
 > modelliert/eingestellt.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -335,9 +337,7 @@ Nutzung von Objekten
 
 - Nystrom ([2014, Kap. 3](#ref-Nystrom2014))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -349,6 +349,8 @@ Nutzung von Objekten
 > - k3: Praktischer Einsatz des Flyweight-Patterns
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -358,6 +360,8 @@ Nutzung von Objekten
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106534&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

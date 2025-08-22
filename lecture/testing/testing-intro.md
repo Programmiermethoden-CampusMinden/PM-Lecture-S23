@@ -1,6 +1,6 @@
 # Einführung Softwaretest
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -33,6 +33,8 @@
 > ein (oder wenige) Aufrufe von `assert*()` pro Testmethode zu haben.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -338,9 +340,7 @@ import static packageName.className.*;
 - Spillner und Linz ([2012](#ref-Spillner2012))
 - Thies, Noelke, und Ungerc ([o. J.](#ref-fernunihagenJunit))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -351,6 +351,8 @@ import static packageName.className.*;
 >   Annotation `@Test`
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

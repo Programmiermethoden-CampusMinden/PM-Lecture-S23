@@ -1,6 +1,6 @@
 # Zusammenarbeit: Git-Workflows und Merge-/Pull-Requests
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -28,6 +28,8 @@
 > von denen dann auch die eigenen Feature-Branches ausgehen sollten.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -319,9 +321,7 @@ gibt es “*Merge-Requests*” (MR). Bei Github gibt es “*Pull-Requests*”
 - Atlassian Pty Ltd ([2022](#ref-AtlassianGit))
 - Github Inc. ([2022](#ref-GitCheatSheet))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -341,6 +341,8 @@ gibt es “*Merge-Requests*” (MR). Bei Github gibt es “*Pull-Requests*”
 > - k3: Diskussion über den Code in Merge-Requests
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

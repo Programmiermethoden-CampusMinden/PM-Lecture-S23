@@ -1,6 +1,6 @@
 # Testfallermittlung: Wie viel und was muss man testen?
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -38,6 +38,8 @@
 > man auch von einem “Negativ-Test”.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -301,9 +303,7 @@ Vergleiche Kleuker ([2019](#ref-Kleuker2019)), Abschnitt “4.4
 - Spillner und Linz ([2012](#ref-Spillner2012))
 - Thies, Noelke, und Ungerc ([o. J.](#ref-fernunihagenJunit))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -315,6 +315,8 @@ Vergleiche Kleuker ([2019](#ref-Kleuker2019)), Abschnitt “4.4
 >   Grenzwertanalyse
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -324,6 +326,8 @@ Vergleiche Kleuker ([2019](#ref-Kleuker2019)), Abschnitt “4.4
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106546&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

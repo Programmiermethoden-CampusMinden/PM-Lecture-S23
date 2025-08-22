@@ -1,6 +1,6 @@
 # Bounds & Wildcards
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -22,6 +22,8 @@
 > Klasse/Methode nicht zugreifbar ist.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -188,9 +190,7 @@ abstützen und hat dann auch wieder die `printInfo`-Methode zur Verfügung
 - Oracle Corporation ([2022b](#ref-Java-SE-Tutorial))
 - Bloch ([2018](#ref-Bloch2018))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -199,6 +199,8 @@ abstützen und hat dann auch wieder die `printInfo`-Methode zur Verfügung
 > - k3: Umgang mit Wildcards und Bounds bei generischen Klassen/Methoden
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -208,6 +210,8 @@ abstützen und hat dann auch wieder die `printInfo`-Methode zur Verfügung
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106236&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

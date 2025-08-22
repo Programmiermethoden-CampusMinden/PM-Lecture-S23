@@ -1,6 +1,6 @@
 # Basics der Versionsverwaltung mit Git (lokale Repos)
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -29,6 +29,8 @@
 > und danach ein Block mit der längeren Erklärung.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -361,9 +363,7 @@ Message”](https://cbea.ms/git-commit/)!**
 - Atlassian Pty Ltd ([2022](#ref-AtlassianGit))
 - Github Inc. ([2022](#ref-GitCheatSheet))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -375,6 +375,8 @@ Message”](https://cbea.ms/git-commit/)!**
 > - k3: Ignorieren von Dateien und Ordnern
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -384,6 +386,8 @@ Message”](https://cbea.ms/git-commit/)!**
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106241&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -468,4 +472,4 @@ Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
   Messages”](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
   by [Tim Pope](https://tpo.pe/) on tbaggery.com
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 02b1db8 (markdown: reformat (#32), 2025-08-10)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> a7fcc94 (tooling: rename 'origin' to 'credits', 2025-08-22)<br></sub></sup></p></blockquote>

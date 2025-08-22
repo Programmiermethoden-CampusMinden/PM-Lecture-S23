@@ -1,6 +1,6 @@
 # Build-Systeme: Apache Maven
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -24,6 +24,8 @@
 > formuliert: Am besten den Abschnitt von Maven-Central kopieren.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -228,9 +230,7 @@ Guide](https://maven.apache.org/guides/getting-started/index.html)
 - Ullenboom ([2021](#ref-Ullenboom2021))
 - Inden ([2013](#ref-Inden2013))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -244,6 +244,8 @@ Guide](https://maven.apache.org/guides/getting-started/index.html)
 >   Builder
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

@@ -1,6 +1,6 @@
 # Template-Method-Pattern
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -28,6 +28,8 @@
 > Varianten.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -240,9 +242,7 @@ Template-Method-Pattern: Verhaltensänderung durch Vererbungsbeziehungen
 - Eilebrecht und Starke ([2013](#ref-Eilebrecht2013))
 - Gamma u. a. ([2011](#ref-Gamma2011))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -251,6 +251,8 @@ Template-Method-Pattern: Verhaltensänderung durch Vererbungsbeziehungen
 > - k3: Template-Method-Entwurfsmuster praktisch anwenden
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -260,6 +262,8 @@ Template-Method-Pattern: Verhaltensänderung durch Vererbungsbeziehungen
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106538&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

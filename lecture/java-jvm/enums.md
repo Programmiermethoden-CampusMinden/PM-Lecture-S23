@@ -1,6 +1,6 @@
 # Aufzählungen (Enumerations)
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -19,6 +19,8 @@
 > definieren, die eigene Konstruktoren, Felder und Methoden enthalten.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -258,9 +260,7 @@ Enumerationen (s.o.).
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
 - Ullenboom ([2021, Kap. 6.4.3](#ref-Ullenboom2021) und 10.7)
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -271,6 +271,8 @@ Enumerationen (s.o.).
 > - k3: Nutzung von name(), ordinal() und values() in Enum-Klassen
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

@@ -1,6 +1,6 @@
 # Strategy-Pattern
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -29,6 +29,8 @@
 > Objekt (hier das Strategie-Objekt) weiter gereicht (delegiert) wurde.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -168,9 +170,7 @@ Objekt
 - Gamma u. a. ([2011](#ref-Gamma2011))
 - Kleuker ([2018](#ref-Kleuker2018))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -179,6 +179,8 @@ Objekt
 > - k3: Strategie-Entwurfsmuster praktisch anwenden
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -188,6 +190,8 @@ Objekt
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106537&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

@@ -1,6 +1,6 @@
 # Serialisierung von Objekten und Zuständen
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -37,6 +37,8 @@
 > Klasse zu definieren.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -226,9 +228,7 @@ Weitere Links:
 
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -242,6 +242,8 @@ Weitere Links:
 > - k3: Serialisierung eigener Klassen und Typen
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -251,6 +253,8 @@ Weitere Links:
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106519&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

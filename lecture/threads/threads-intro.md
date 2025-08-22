@@ -1,6 +1,6 @@
 # Einführung in die nebenläufige Programmierung mit Threads
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -47,6 +47,8 @@
 > abgearbeitet wurde.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -251,9 +253,7 @@ OS) verwaltet
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
 - Boles ([2008](#ref-Boles2008))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -265,6 +265,8 @@ OS) verwaltet
 > - k3: Kommunikation mit Objekten
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

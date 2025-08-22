@@ -1,6 +1,6 @@
 # Continuous Integration (CI)
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -38,6 +38,8 @@
 > der Betrachtung in dieser Lehrveranstaltung.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -422,9 +424,7 @@ Im Browser in den Repo-Einstellungen arbeiten:
 - „Documentation Gitlab CI“ ([o. J.](#ref-GitlabCI))
 - GitHub Inc. ([2022](#ref-GitHubCI))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -433,6 +433,8 @@ Im Browser in den Repo-Einstellungen arbeiten:
 > - k2: Arbeitsweise von/mit CI
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

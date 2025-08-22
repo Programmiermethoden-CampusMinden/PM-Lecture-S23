@@ -1,6 +1,6 @@
 # Reflection
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -27,6 +27,8 @@
 > Auch das Refactoring wird dadurch eher schwierig.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -328,9 +330,7 @@ Reflection, wähle diese!**
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
 - Inden ([2013, Kap. 8](#ref-Inden2013))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -344,6 +344,8 @@ Reflection, wähle diese!**
 >   Konstruktoren und Methoden (mit und ohne Parameter/Rückgabewerte)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -353,6 +355,8 @@ Reflection, wähle diese!**
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106517&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

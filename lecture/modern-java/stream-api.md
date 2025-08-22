@@ -1,6 +1,6 @@
 # Stream-API
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -43,6 +43,8 @@
 > selbstständige Auseinandersetzung :-)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -422,9 +424,7 @@ java.util.stream”](https://docs.oracle.com/en/java/javase/17/docs/api/java.bas
 - Oracle Corporation ([2022](#ref-LernJava))
 - Ullenboom ([2021, Kap. 17.3–17.6](#ref-Ullenboom2021))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -447,6 +447,8 @@ java.util.stream”](https://docs.oracle.com/en/java/javase/17/docs/api/java.bas
 > - k3: Einsatz von flatMap()
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -456,6 +458,8 @@ java.util.stream”](https://docs.oracle.com/en/java/javase/17/docs/api/java.bas
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106528&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

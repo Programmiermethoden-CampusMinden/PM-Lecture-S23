@@ -1,6 +1,6 @@
 # Record-Klassen
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -39,6 +39,8 @@
 > implizit final, d.h. man nicht von Record-Klassen erben.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -223,9 +225,7 @@ Data”](https://dev.java/learn/using-record-to-model-immutable-data/).
 
 - Oracle Corporation ([2022](#ref-LernJava))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -244,6 +244,8 @@ Data”](https://dev.java/learn/using-record-to-model-immutable-data/).
 > - k3: Einsatz von Record-Klassen
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

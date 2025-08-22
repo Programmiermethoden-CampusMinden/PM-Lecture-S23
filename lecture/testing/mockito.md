@@ -1,6 +1,6 @@
 # Mocking mit Mockito
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -24,6 +24,8 @@
 > oft.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -705,9 +707,7 @@ public void testVerify_InteraktionenMitHilfeDesArgumentCaptor() {
 - S. Faber and B. Dutheil and R. Winterhalter and T.v.d. Lippe
   ([2022](#ref-Mockito))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -720,6 +720,8 @@ public void testVerify_InteraktionenMitHilfeDesArgumentCaptor() {
 > - k3: Einsatz von ArgumentMatcher
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -729,6 +731,8 @@ public void testVerify_InteraktionenMitHilfeDesArgumentCaptor() {
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106547&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

@@ -1,6 +1,6 @@
 # Einführung in Docker
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -46,6 +46,8 @@
 > mit den hier vermittelten Basiskenntnissen erstaunlich weit …
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -443,9 +445,7 @@ Codespaces](https://github.com/features/codespaces) von GitHub auf.
 - Ullenboom ([2021](#ref-Ullenboom2021))
 - Inden ([2013](#ref-Inden2013))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -462,6 +462,8 @@ Codespaces](https://github.com/features/codespaces) von GitHub auf.
 > - k3: Einsatz von VSCode und Containern
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

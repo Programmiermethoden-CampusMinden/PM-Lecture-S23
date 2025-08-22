@@ -1,6 +1,6 @@
 # Singleton-Pattern
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -19,6 +19,8 @@
 > angefordert wird, und das Objekt erst dann anlegen (“Lazy”).
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -138,9 +140,7 @@ werden kann
 
 - Nystrom ([2014, Kap. 6](#ref-Nystrom2014))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -151,6 +151,8 @@ werden kann
 > - k3: Anwendung des Singleton-Patterns
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

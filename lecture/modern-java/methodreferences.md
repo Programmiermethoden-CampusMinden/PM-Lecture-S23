@@ -1,6 +1,6 @@
 # Methoden-Referenzen
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -28,6 +28,8 @@
 > auf dem ersten Parameter aufgerufen).
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -305,9 +307,7 @@ Seit Java8: **Methoden-Referenzen** statt anonymer Klassen
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
 - Urma, Fusco, und Mycroft ([2014, Kap. 3](#ref-Urma2014))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -317,6 +317,8 @@ Seit Java8: **Methoden-Referenzen** statt anonymer Klassen
 > - k3: Einsatz von Methoden-Referenzen
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -326,6 +328,8 @@ Seit Java8: **Methoden-Referenzen** statt anonymer Klassen
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106524&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

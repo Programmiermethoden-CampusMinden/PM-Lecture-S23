@@ -1,6 +1,6 @@
 # Command-Pattern
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -26,6 +26,8 @@
 >     und alles zusammen baut.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -216,9 +218,7 @@ keine weitere Buchhaltung …
 - Gamma u. a. ([2011](#ref-Gamma2011))
 - Nystrom ([2014, Kap. 2](#ref-Nystrom2014))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -229,6 +229,8 @@ keine weitere Buchhaltung …
 >   PM-Dungeon
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -238,6 +240,8 @@ keine weitere Buchhaltung …
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106532&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

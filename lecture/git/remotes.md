@@ -1,6 +1,6 @@
 # Arbeiten mit Git Remotes (dezentrale Repos)
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -40,6 +40,8 @@
 > Änderungen im lokalen Branch in den Remote-Branch.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -346,9 +348,7 @@ Beispiel: `git fetch andi` oder `git push origin master`
 - Atlassian Pty Ltd ([2022](#ref-AtlassianGit))
 - Github Inc. ([2022](#ref-GitCheatSheet))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -362,6 +362,8 @@ Beispiel: `git fetch andi` oder `git push origin master`
 > - k3: Anlegen eines Tracking Branches zum Vereinfachen der Arbeit
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -371,6 +373,8 @@ Beispiel: `git fetch andi` oder `git push origin master`
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106245&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

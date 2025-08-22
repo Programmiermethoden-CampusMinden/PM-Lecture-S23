@@ -1,6 +1,6 @@
 # Annotationen
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -24,6 +24,8 @@
 > über Reflection ausgewertet werden.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -489,9 +491,7 @@ beim Verarbeiten von `annotations.C` die folgende Ausgabe:
 - Oracle Corporation ([2022b](#ref-Java-SE-Tutorial))
 - Oracle Corporation ([2022a](#ref-LernJava))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -504,6 +504,8 @@ beim Verarbeiten von `annotations.C` die folgende Ausgabe:
 > - k3: Erstellen eigener einfacher Annotation-Processors
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -513,6 +515,8 @@ beim Verarbeiten von `annotations.C` die folgende Ausgabe:
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106512&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

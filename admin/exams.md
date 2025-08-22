@@ -1,6 +1,6 @@
 # Prüfungsvorbereitung
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -55,6 +55,8 @@
 > ;-)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

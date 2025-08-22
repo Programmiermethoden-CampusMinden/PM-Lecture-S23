@@ -1,6 +1,6 @@
 # Java Collections Framework
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -20,6 +20,8 @@
 > möchte, sollte man den “equals-hashCode-Contract” berücksichtigen.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -416,9 +418,7 @@ Komplexität sorgen (das ist dem O-Kalkül aber egal).
 
 - Oracle Corporation ([2022](#ref-LernJava))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -442,6 +442,8 @@ Komplexität sorgen (das ist dem O-Kalkül aber egal).
 >   miteinander arbeiten?
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

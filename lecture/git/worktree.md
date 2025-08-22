@@ -1,6 +1,6 @@
 # Git Worktree
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -16,6 +16,8 @@
 > Möglichkeit, parallel an verschiedenen Branches zu arbeiten.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -169,9 +171,7 @@ Git Worktree: Auschecken von Branches in separate Ordner
 
 - Dokumentation: https://git-scm.com/docs/git-worktree
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >

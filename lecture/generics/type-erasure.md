@@ -1,6 +1,6 @@
 # Type Erasure
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -15,6 +15,8 @@
 > Auswirkungen aber auf dem Radar haben!
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -255,9 +257,7 @@ Grund: Es gibt nur `List.class` (und kein `List<String>.class` bzw.
 - Oracle Corporation ([2022b](#ref-Java-SE-Tutorial))
 - Bloch ([2018](#ref-Bloch2018))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -266,6 +266,8 @@ Grund: Es gibt nur `List.class` (und kein `List<String>.class` bzw.
 > - k2: Typ-Löschung und Auswirkungen
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

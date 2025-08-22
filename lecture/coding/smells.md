@@ -1,6 +1,6 @@
 # Code Smells
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -20,6 +20,8 @@
 > die Chance für echte Probleme deutlich erhöht.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -101,7 +103,7 @@ eine sehr lesenswerte Lektüre!
 > Any fool can write code that a computer can understand. Good
 > programmers write code that humans can understand.
 >
->  Quelle: ([Fowler 2011](#ref-Fowler2011), p. 15)
+>  Quelle: “*Any fool…*”: ([Fowler 2011](#ref-Fowler2011), p. 15)
 
 Auch wenn das zunächst seltsam klingt, aber Code muss auch von Menschen
 gelesen und verstanden werden können. Klar, der Code muss inhaltlich
@@ -456,9 +458,7 @@ public class CreditsCalculator {
 - Passig und Jander ([2013](#ref-Passig2013))
 - Inden ([2013, Kap. 10](#ref-Inden2013))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -471,6 +471,8 @@ public class CreditsCalculator {
 > - k3: Bessere Kommentare schreiben
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -529,6 +531,6 @@ Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
 **Exceptions:**
 
-- ([Fowler 2011](#ref-Fowler2011), p. 15)
+- “*Any fool…*”: ([Fowler 2011](#ref-Fowler2011), p. 15)
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 02b1db8 (markdown: reformat (#32), 2025-08-10)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> a7fcc94 (tooling: rename 'origin' to 'credits', 2025-08-22)<br></sub></sup></p></blockquote>

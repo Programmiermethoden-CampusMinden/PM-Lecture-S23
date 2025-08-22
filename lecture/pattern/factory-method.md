@@ -1,6 +1,6 @@
 # Factory-Method-Pattern
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -23,6 +23,8 @@
 > erzeugen und dann die Referenz darauf zurückliefern.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -75,9 +77,7 @@ des Factory-Method Entwurfsmusters generiert.
 - Gamma u. a. ([2011](#ref-Gamma2011))
 - Kleuker ([2018](#ref-Kleuker2018))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -86,6 +86,8 @@ des Factory-Method Entwurfsmusters generiert.
 > - k3: Entwurfsmuster Factory-Methode anwenden
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -95,6 +97,8 @@ des Factory-Method Entwurfsmusters generiert.
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106533&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

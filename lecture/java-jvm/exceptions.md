@@ -1,6 +1,6 @@
 # Exception-Handling
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -45,6 +45,8 @@
 > einsetzen.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -519,9 +521,7 @@ Controversy”](https://dev.java/learn/exceptions/unchecked-exception-controvers
 - Ullenboom ([2021, Kap. 8](#ref-Ullenboom2021))
 - Oracle Corporation ([2022b](#ref-Java-SE-Tutorial))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -533,6 +533,8 @@ Controversy”](https://dev.java/learn/exceptions/unchecked-exception-controvers
 > - k3: Eigene Exceptions schreiben
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -542,6 +544,8 @@ Controversy”](https://dev.java/learn/exceptions/unchecked-exception-controvers
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106516&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

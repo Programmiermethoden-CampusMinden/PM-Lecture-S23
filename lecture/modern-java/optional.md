@@ -1,6 +1,6 @@
 # Optional
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -33,6 +33,8 @@
 > der Rückgabetyp der Methode ein `Optional` ist!
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -452,9 +454,7 @@ Optionals”](https://dev.java/learn/api/streams/optionals/).
 - Oracle Corporation ([2022](#ref-LernJava))
 - Ullenboom ([2021, Kap. 12.6](#ref-Ullenboom2021))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -471,6 +471,8 @@ Optionals”](https://dev.java/learn/api/streams/optionals/).
 > - k3: Zugriff auf Optionals entweder direkt oder per Stream-API
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -480,6 +482,8 @@ Optionals”](https://dev.java/learn/api/streams/optionals/).
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106526&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

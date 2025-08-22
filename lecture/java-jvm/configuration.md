@@ -1,6 +1,6 @@
 # Konfiguration eines Programms
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -26,6 +26,8 @@
 > XML).
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -290,9 +292,7 @@ beispielsweise “Apache Commons Configuration”
 
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -303,6 +303,8 @@ beispielsweise “Apache Commons Configuration”
 > - k3: Laden von Konfigurationsdaten mit java.util.Properties
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

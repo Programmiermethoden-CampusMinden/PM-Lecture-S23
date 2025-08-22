@@ -1,6 +1,6 @@
 # Synchronisation: Verteilter Zugriff auf gemeinsame Ressourcen
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -50,6 +50,8 @@
 > “Verteilte Systeme” besprochen.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -297,9 +299,7 @@ Ressourcen:
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
 - Boles ([2008](#ref-Boles2008))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -310,6 +310,8 @@ Ressourcen:
 > - k3: Synchronisation mit synchronized, wait, notify und notifyAll
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -319,6 +321,8 @@ Ressourcen:
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106530&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

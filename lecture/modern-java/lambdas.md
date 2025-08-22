@@ -1,6 +1,6 @@
 # Lambda-Ausdrücke und funktionale Interfaces
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -43,6 +43,8 @@
 > entsprechen.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -402,9 +404,7 @@ Lambda-Ausdruck stolpert:
 - Urma, Fusco, und Mycroft ([2014, Kap. 3](#ref-Urma2014))
 - Ullenboom ([2021, Kap. 12](#ref-Ullenboom2021))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -416,6 +416,8 @@ Lambda-Ausdruck stolpert:
 > - k3: Einsatz von Lambda-Ausdrücken
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -425,6 +427,8 @@ Lambda-Ausdruck stolpert:
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106523&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

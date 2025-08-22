@@ -1,6 +1,6 @@
 # Refactoring
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -24,6 +24,8 @@
 > und *Push Up/Pull Down*.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -52,7 +54,7 @@
 > software to make it easier to understand and cheaper to modify without
 > changing its observable behaviour.
 >
->  Quelle: ([Fowler 2011](#ref-Fowler2011), p. 53)
+>  Quelle: “*Refactoring*”: ([Fowler 2011](#ref-Fowler2011), p. 53)
 
 **Refactoring:** Änderungen an der **inneren Struktur** einer Software
 
@@ -97,7 +99,8 @@
 
 > “Three strikes and you refactor.”
 >
->  Quelle: ([Fowler 2011](#ref-Fowler2011), p. 58): “The Rule of Three”
+>  Quelle: “*Three strikes…*”: ([Fowler 2011](#ref-Fowler2011), p. 58):
+> “The Rule of Three”
 
 Wenn Sie sich zum dritten Mal über eine suboptimale Lösung ärgern, dann
 werden Sie sich vermutlich noch öfter darüber ärgern. Jetzt ist der
@@ -399,9 +402,7 @@ Verhaltens
 - Fowler ([2011](#ref-Fowler2011))
 - Inden ([2013, Kap. 11](#ref-Inden2013))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -416,6 +417,8 @@ Verhaltens
 >   Move, Push Up/Pull Down
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -425,6 +428,8 @@ Verhaltens
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106231&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -498,11 +503,12 @@ Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
 **Exceptions:**
 
-- ([Fowler 2011](#ref-Fowler2011), p. 53)
-- ([Fowler 2011](#ref-Fowler2011), p. 58): “The Rule of Three”
 - [“356:
   Refactoring”](http://altlasten.lutz.donnerhacke.de/mitarb/lutz/usenet/Fachbegriffe.der.Informatik.html#356)
   by [Andreas Bogk](mailto:andreas@andreas.org) on Lutz Donnerhacke:
   “Fachbegriffe der Informatik”
+- “*Refactoring*”: ([Fowler 2011](#ref-Fowler2011), p. 53)
+- “*Three strikes…*”: ([Fowler 2011](#ref-Fowler2011), p. 58): “The Rule
+  of Three”
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 02b1db8 (markdown: reformat (#32), 2025-08-10)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> a7fcc94 (tooling: rename 'origin' to 'credits', 2025-08-22)<br></sub></sup></p></blockquote>

@@ -1,6 +1,6 @@
 # Generische Klassen & Methoden
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -17,6 +17,8 @@
 > `public class Stack<E> { }` und `public <T> T foo(T m) { }`.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -321,9 +323,7 @@ public class GenericMethods {
 - Oracle Corporation ([2022b](#ref-Java-SE-Tutorial))
 - Bloch ([2018](#ref-Bloch2018))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -335,6 +335,8 @@ public class GenericMethods {
 > - k3: Erstellen und Nutzen von generischen Methoden
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

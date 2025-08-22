@@ -1,6 +1,6 @@
 # Coding Conventions und Metriken
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -55,6 +55,8 @@
 > bereitgestellt (vgl. Folie “Konfiguration für das PM-Praktikum”).
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -597,9 +599,7 @@ Warnungen oder Fehler beinhalten, die SpotBugs melden würde.
 - Inden ([2013, Kap. 13](#ref-Inden2013))
 - Google Open Source ([2022](#ref-googlestyleguide))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >

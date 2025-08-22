@@ -1,6 +1,6 @@
 # Build-Systeme: Gradle
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -30,6 +30,8 @@
 > Coding-Style-Richtlinien.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -509,9 +511,7 @@ Wrappers einem fest installierten Gradle vorzuziehen!
 - Ullenboom ([2021](#ref-Ullenboom2021))
 - Inden ([2013](#ref-Inden2013))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -520,6 +520,8 @@ Wrappers einem fest installierten Gradle vorzuziehen!
 > - k3: Schreiben und Verstehen einfacher Gradle-Skripte
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -529,6 +531,8 @@ Wrappers einem fest installierten Gradle vorzuziehen!
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106220&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

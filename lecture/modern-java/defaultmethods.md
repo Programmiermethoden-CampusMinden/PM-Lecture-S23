@@ -1,6 +1,6 @@
 # Interfaces: Default-Methoden
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -32,6 +32,8 @@
 > **keinen Zustand** haben, d.h. keine Attribute/Felder.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -314,9 +316,7 @@ Seit Java8: Interfaces mit Implementierung: **Default-Methoden**
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
 - Urma, Fusco, und Mycroft ([2014, Kap. 9](#ref-Urma2014))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -329,6 +329,8 @@ Seit Java8: Interfaces mit Implementierung: **Default-Methoden**
 > - k3: Regeln zum Auflösen der Mehrfachvererbung
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -338,6 +340,8 @@ Seit Java8: Interfaces mit Implementierung: **Default-Methoden**
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106522&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

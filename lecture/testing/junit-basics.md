@@ -1,6 +1,6 @@
 # Testen mit JUnit (JUnit-Basics)
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -26,6 +26,8 @@
 > laufen zu lassen.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -397,9 +399,7 @@ JUnit 5)
 - Spillner und Linz ([2012](#ref-Spillner2012))
 - Thies, Noelke, und Ungerc ([o. J.](#ref-fernunihagenJunit))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -410,6 +410,8 @@ JUnit 5)
 > - k3: Aufbau von Testsuiten mit JUnit
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -419,6 +421,8 @@ JUnit 5)
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106545&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

@@ -1,6 +1,6 @@
 # High-Level Concurrency
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -30,6 +30,8 @@
 > Berechnungen in einen parallel ausgeführten Thread auszulagern.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -317,9 +319,7 @@ Multi-Threading auf höherem Level: Thread-Pools und Fork/Join-Framework
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
 - Urma, Fusco, und Mycroft ([2014, Kap. 7.2](#ref-Urma2014))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -330,6 +330,8 @@ Multi-Threading auf höherem Level: Thread-Pools und Fork/Join-Framework
 >   Fork/Join-Framework, SwingWorker
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

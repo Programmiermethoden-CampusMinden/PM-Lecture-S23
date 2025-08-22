@@ -1,6 +1,6 @@
 # Reguläre Ausdrücke
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -30,6 +30,8 @@
 > String zum Pattern passt.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -397,9 +399,7 @@ Lösung: `([A-Z][a-zA-Z]*)\s\1`
 
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -416,6 +416,8 @@ Lösung: `([A-Z][a-zA-Z]*)\s\1`
 > - k3: Zusammenbauen von komplexen Ausdrücken (u.a. mit Gruppen)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -425,6 +427,8 @@ Lösung: `([A-Z][a-zA-Z]*)\s\1`
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106518&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

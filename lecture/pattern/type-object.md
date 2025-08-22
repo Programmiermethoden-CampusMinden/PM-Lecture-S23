@@ -1,6 +1,6 @@
 # Type-Object-Pattern
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -32,6 +32,8 @@
 > sogar eine Art “Vererbung” unter den Type-Objects implementieren.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -329,9 +331,7 @@ Type-Object-Pattern: Implementierung eines eigenen Objekt-Modells
 
 - Nystrom ([2014, Kap. 13](#ref-Nystrom2014))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -343,6 +343,8 @@ Type-Object-Pattern: Implementierung eines eigenen Objekt-Modells
 > - k3: Praktischer Einsatz des Type-Object-Patterns
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -352,6 +354,8 @@ Type-Object-Pattern: Implementierung eines eigenen Objekt-Modells
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106539&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

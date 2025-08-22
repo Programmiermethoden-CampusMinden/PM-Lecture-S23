@@ -1,6 +1,6 @@
 # Logging
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -34,6 +34,8 @@
 > deaktiviert) an den Elternlogger weitergereicht.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -221,9 +223,7 @@ angezeigt (ab `INFO` aufwärts)?!
 
 - Oracle Corporation ([2022, Kap. 8](#ref-JDK-Doc))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -233,6 +233,8 @@ angezeigt (ab `INFO` aufwärts)?!
 > - k3: Erstellung eigener Handler und Formatter
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -242,6 +244,8 @@ angezeigt (ab `INFO` aufwärts)?!
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106228&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

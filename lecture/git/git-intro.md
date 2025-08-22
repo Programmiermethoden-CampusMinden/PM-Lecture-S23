@@ -1,6 +1,6 @@
 # Intro: Versionskontrolle in der Softwareentwicklung
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -30,6 +30,8 @@
 > anbietet.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -194,9 +196,7 @@ Anschauen kann man sich die Einstellungen in der Textdatei
 - Atlassian Pty Ltd ([2022](#ref-AtlassianGit))
 - Github Inc. ([2022](#ref-GitCheatSheet))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -209,6 +209,8 @@ Anschauen kann man sich die Einstellungen in der Textdatei
 > - k3: Umgang mit entsprechenden Git-Befehlen auf der Konsole
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

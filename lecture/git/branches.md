@@ -1,6 +1,6 @@
 # Git Branches: Features unabhängig entwickeln und mit Git verwalten
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -31,6 +31,8 @@
 > verschoben werden. Dies wird später bei Workflows eine Rolle spielen.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -360,9 +362,7 @@ Man beachte aber die Änderung der Commit-IDs von `wuppie`: Aus `D` wird
 - Atlassian Pty Ltd ([2022](#ref-AtlassianGit))
 - Github Inc. ([2022](#ref-GitCheatSheet))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -373,6 +373,8 @@ Man beachte aber die Änderung der Commit-IDs von `wuppie`: Aus `D` wird
 > - k3: Rebasen von Branches
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -386,6 +388,8 @@ Man beachte aber die Änderung der Commit-IDs von `wuppie`: Aus `D` wird
 >   Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

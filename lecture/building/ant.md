@@ -1,6 +1,6 @@
 # Build-Systeme: Apache Ant
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -34,6 +34,8 @@
 > definieren.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -465,9 +467,7 @@ Apache Ant: [ant.apache.org](https://ant.apache.org/)
 
 - Inden ([2013, Abschn. 2.5.2](#ref-Inden2013))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -480,6 +480,8 @@ Apache Ant: [ant.apache.org](https://ant.apache.org/)
 > - k3: Ausführen von Ant-Targets aus der IDE heraus
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

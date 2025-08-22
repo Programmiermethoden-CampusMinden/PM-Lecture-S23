@@ -1,6 +1,6 @@
 # Branching-Strategien mit Git
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -35,6 +35,8 @@
 > `master` integriert.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -318,9 +320,7 @@ Diskussionen, welche Linux-Distribution die bessere sei):
 - Atlassian Pty Ltd ([2022](#ref-AtlassianGit))
 - Github Inc. ([2022](#ref-GitCheatSheet))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -331,6 +331,8 @@ Diskussionen, welche Linux-Distribution die bessere sei):
 > - k3: GitHub Flow-Modell anwenden
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

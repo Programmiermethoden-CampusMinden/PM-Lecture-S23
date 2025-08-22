@@ -1,6 +1,6 @@
 # Javadoc
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -27,6 +27,8 @@
 > oder Blockkommentare).
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -208,9 +210,7 @@ sein sollte. Versuchen Sie, dieses zu erreichen!
 - Ullenboom ([2021, Kap. 23.4](#ref-Ullenboom2021))
 - Google Open Source ([2022, Kap. 7](#ref-googlestyleguide))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -224,6 +224,8 @@ sein sollte. Versuchen Sie, dieses zu erreichen!
 >   Rückgabetypen, Exceptions, veralteten Elementen
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >

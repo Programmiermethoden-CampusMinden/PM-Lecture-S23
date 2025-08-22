@@ -1,6 +1,6 @@
 # Observer-Pattern
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > <details open>
 >
@@ -23,6 +23,8 @@
 > abfragen möchten, nennt man “*Observer*”.
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -127,9 +129,7 @@ Statusänderungen
 - Nystrom ([2014, Kap. 4](#ref-Nystrom2014))
 - Gamma u. a. ([2011](#ref-Gamma2011))
 
-------------------------------------------------------------------------
-
-> [!TIP]
+> [!NOTE]
 >
 > <details>
 >
@@ -140,6 +140,8 @@ Statusänderungen
 >   PM-Dungeon
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
@@ -149,6 +151,8 @@ Statusänderungen
 >   (ILIAS)](https://www.hsbi.de/elearning/goto.php?target=tst_1106535&client_id=FH-Bielefeld)
 >
 > </details>
+
+> [!TIP]
 >
 > <details>
 >
