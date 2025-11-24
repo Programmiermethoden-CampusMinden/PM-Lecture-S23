@@ -22,12 +22,11 @@
 >
 > Abhängigkeiten zu externen Bibliotheken werden als Dependencies
 > formuliert: Am besten den Abschnitt von Maven-Central kopieren.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -43,7 +42,7 @@ mvn archetype:generate -DgroupId=de.hsbi.pm -DartifactId=my-project
                        -DarchetypeArtifactId=maven-archetype-quickstart
 ```
 
-<img src="images/screenshot_maven-project.png" width="40%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_maven-project_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_maven-project_dark.png"><img src="images/screenshot_maven-project.png" width="40%"></picture>
 
 Von der zeitlichen Entstehung her kommt Maven nach Ant, aber vor Gradle.
 Wie in Ant sind auch die Maven-Buildskripte XML-basierte Textdateien
@@ -83,7 +82,7 @@ herunterladen.
 
 ## Lebenszyklus (eingebaut in Maven)
 
-<img src="images/screenshot_maven-lifecycle.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_maven-lifecycle_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_maven-lifecycle_dark.png"><img src="images/screenshot_maven-lifecycle.png" width="80%"></picture>
 
 In Maven ist das typische Java-Entwicklungsmodell als “Lebenszyklus”
 implementiert.
@@ -264,12 +263,11 @@ Guide](https://maven.apache.org/guides/getting-started/index.html)
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Inden2013" class="csl-entry">
 >
-> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. dpunkt.verlag.
+> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. Dpunkt.verlag.
 >
 > </div>
 >

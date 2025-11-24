@@ -32,12 +32,11 @@
 > werden nicht am Log-Level des empfangenden Loggers gemessen, sondern
 > akzeptiert und an die Handler des Loggers und (sofern nicht
 > deaktiviert) an den Elternlogger weitergereicht.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -75,7 +74,7 @@
 
 Paket `java.util.logging`
 
-<img src="images/logging.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/logging_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/logging_dark.png"><img src="images/logging.png" width="80%"></picture>
 
 Eine Applikation kann verschiedene Logger instanziieren. Die Logger
 bauen per Namenskonvention hierarchisch aufeinander auf. Jeder Logger
@@ -289,12 +288,11 @@ angezeigt (ab `INFO` aufwärts)?!
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-JDK-Doc" class="csl-entry">
 >
-> Oracle Corporation. 2022. „Java Core Libraries Developer Guide“. 2022.
+> Oracle Corporation. 2022. „Java Core Libraries Developer Guide“.
 > <https://docs.oracle.com/en/java/javase/17/core/index.html>.
 >
 > </div>

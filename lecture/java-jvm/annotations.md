@@ -22,12 +22,11 @@
 > Dokumentation einschränken. Annotationen können zur Übersetzungszeit
 > mit einem Annotation-Processor verarbeitet werden oder zur Laufzeit
 > über Reflection ausgewertet werden.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -207,11 +206,11 @@ public void foo(@NotNull Object o) {
 
 ### IntelliJ inferiert mit @NotNull mögliche *null*-Werte
 
-<img src="images/screenshot_infer-notnull.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_infer-notnull_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_infer-notnull_dark.png"><img src="images/screenshot_infer-notnull.png" width="80%"></picture>
 
 ### IntelliJ baut bei @NotNull passende Assertions ein
 
-<img src="images/screenshot_nullpointerexception-notnull.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_nullpointerexception-notnull_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_nullpointerexception-notnull_dark.png"><img src="images/screenshot_nullpointerexception-notnull.png" width="80%"></picture>
 
 ## Eigene Annotationen erstellen
 
@@ -487,7 +486,7 @@ beim Verarbeiten von `annotations.C` die folgende Ausgabe:
 
 ## 📖 Zum Nachlesen
 
-- Ullenboom ([2021, Kap. 10.8](#ref-Ullenboom2021) und 23.4)
+- Ullenboom ([2021, 10.8](#ref-Ullenboom2021) und 23.4)
 - Oracle Corporation ([2022b](#ref-Java-SE-Tutorial))
 - Oracle Corporation ([2022a](#ref-LernJava))
 
@@ -535,7 +534,6 @@ beim Verarbeiten von `annotations.C` die folgende Ausgabe:
 > Klasse und den Namen des Autors ausgibt.
 >
 > Zeigen Sie die Funktionen anhand einer Demo.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -546,19 +544,17 @@ beim Verarbeiten von `annotations.C` die folgende Ausgabe:
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-LernJava" class="csl-entry">
 >
-> Oracle Corporation. 2022a. „Learn Java“. 2022.
-> <https://dev.java/learn/>.
+> Oracle Corporation. 2022a. „Learn Java“. <https://dev.java/learn/>.
 >
 > </div>
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> ———. 2022b. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022b. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

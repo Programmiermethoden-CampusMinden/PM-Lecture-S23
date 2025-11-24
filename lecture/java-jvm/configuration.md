@@ -24,12 +24,11 @@
 > zeilenweise “Key=Value”-Paare. Diese kann man mit der Klasse
 > `java.util.Properties` einlesen, bearbeiten und speichern (auch als
 > XML).
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -91,7 +90,7 @@ oder in der Langform mit einem Leerzeichen trennen, also “–breite 10”.
 Hinweis IntelliJ: “`Edit Configurations`” =\> Kommandozeilenparameter
 unter “`Build and run`” im entsprechenden Feld eintragen
 
-<img src="images/ide-cli.png">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/ide-cli_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/ide-cli_dark.png"><img src="images/ide-cli.png"></picture>
 
 ## Auswertung Kommandozeilenparameter
 
@@ -323,12 +322,11 @@ beispielsweise “Apache Commons Configuration”
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> Oracle Corporation. 2022. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

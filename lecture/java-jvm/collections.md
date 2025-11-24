@@ -18,12 +18,11 @@
 >
 > Wenn man eigene Klassen in der Collection-API oder in Map benutzen
 > möchte, sollte man den “equals-hashCode-Contract” berücksichtigen.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -55,7 +54,7 @@ hingegen kann ein Objekt nur *einmal* enthalten.
 
 ## Collection-API in Java
 
-<img src="images/collection.png" width="72%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/collection_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/collection_dark.png"><img src="images/collection.png" width="72%"></picture>
 
 *Hinweis*: Die abstrakten (Zwischen-) Klassen wurden im obigen UML aus
 Gründen der Übersichtlichkeit *nicht* aufgeführt. Aus den selben Gründen
@@ -109,7 +108,7 @@ Collection](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/ut
 private List<Entity> entities = new ArrayList<>();
 ```
 
-<img src="images/arraylist.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/arraylist_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/arraylist_dark.png"><img src="images/arraylist.png" width="80%"></picture>
 
 [Link zu einer netten
 Animation](https://github.com/Programmiermethoden-CampusMinden/PM-Lecture/blob/master/markdown/java-jvm/images/arraylist.gif)
@@ -140,7 +139,7 @@ Die Methoden einer `ArrayList<T>` sind nicht `synchronized`.
 
 ## Listen: *LinkedList*
 
-<img src="images/linkedlist.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/linkedlist_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/linkedlist_dark.png"><img src="images/linkedlist.png" width="80%"></picture>
 
 [Link zu einer netten
 Animation](https://github.com/Programmiermethoden-CampusMinden/PM-Lecture/blob/master/markdown/java-jvm/images/linkedlist.gif)
@@ -193,7 +192,7 @@ for (Entity e : entities) { ... }
 entities.forEach(x -> ...);
 ```
 
-<img src="images/iteratoruml.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/iteratoruml_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/iteratoruml_dark.png"><img src="images/iteratoruml.png" width="80%"></picture>
 
 Die Klassen aus der Collection-API implementieren das Interface
 `Iterable<T>` und sind damit iterierbar. Man kann sie darüber in einer
@@ -227,7 +226,7 @@ implementieren.
 
 ## Hilfsklasse *Collections*
 
-<img src="images/collections.png" width="50%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/collections_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/collections_dark.png"><img src="images/collections.png" width="50%"></picture>
 
 `Collections` ist eine Utility-Klasse mit statischen Methoden, die auf
 `Collection<T>`s ausgeführt werden. Diese Methoden nutzen das
@@ -247,7 +246,7 @@ Utility-Klasse zu definieren.
 
 ## *Map*
 
-<img src="images/map.png" width="50%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/map_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/map_dark.png"><img src="images/map.png" width="50%"></picture>
 
 *Hinweis*: Die abstrakten (Zwischen-) Klassen wurden im obigen UML aus
 Gründen der Übersichtlichkeit *nicht* aufgeführt. Aus den selben Gründen
@@ -281,7 +280,7 @@ Map](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.
 
 ## *HashMap*
 
-<img src="images/hashmap.png" width="60%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/hashmap_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/hashmap_dark.png"><img src="images/hashmap.png" width="60%"></picture>
 
 Eine `HashMap<K,V>` speichert die Elemente in mehreren einfach
 verketteten Listen. Dafür verwendet sie die innere Klasse `Node<K,V>`.
@@ -397,7 +396,7 @@ Spielregeln:
 
 ## Überblick
 
-<img src="images/collections_table.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/collections_table_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/collections_table_dark.png"><img src="images/collections_table.png" width="80%"></picture>
 
 Komplexitätswerte beziehen sich auf den Regelfall. Sonderfälle wie das
 Vergrößern des Array einer `ArrayList<T>` können für temporär erhöhte
@@ -462,13 +461,11 @@ Komplexität sorgen (das ist dem O-Kalkül aber egal).
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-LernJava" class="csl-entry">
 >
-> Oracle Corporation. 2022. „Learn Java“. 2022.
-> <https://dev.java/learn/>.
+> Oracle Corporation. 2022. „Learn Java“. <https://dev.java/learn/>.
 >
 > </div>
 >

@@ -32,12 +32,11 @@
 > Im Unterschied zu Maven und Gradle ist in Ant *kein*
 > Java-Entwicklungsmodell eingebaut. Man muss sämtliche Targets selbst
 > definieren.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -500,12 +499,11 @@ Apache Ant: [ant.apache.org](https://ant.apache.org/)
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Inden2013" class="csl-entry">
 >
-> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. dpunkt.verlag.
+> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. Dpunkt.verlag.
 >
 > </div>
 >

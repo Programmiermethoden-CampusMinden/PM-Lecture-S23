@@ -45,12 +45,11 @@
 > und Methoden haben und diese entsprechend zugreifen/aufrufen. Das
 > klappt auch, wenn der Thread noch nicht gestartet wurde oder bereits
 > abgearbeitet wurde.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -64,7 +63,7 @@
 
 ## 42
 
-<img src="images/screenshot_swingworker.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_swingworker_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_swingworker_dark.png"><img src="images/screenshot_swingworker.png" width="80%"></picture>
 
 <p align="right"><a href="https://github.com/Programmiermethoden-CampusMinden/PM-Lecture/blob/master/markdown/threads/src/misc/SwingWorkerDemo.java">Demo: misc.SwingWorkerDemo (GUI ausprobieren)</a></p>
 
@@ -132,7 +131,7 @@ public class Threaded extends Thread {
 
 - Ableiten von `Thread` oder Implementierung von `Runnable`
 
-  <img src="images/ThreadRunnable.png" width="80%">
+  <picture><source media="(prefers-color-scheme: light)" srcset="images/ThreadRunnable_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/ThreadRunnable_dark.png"><img src="images/ThreadRunnable.png" width="80%"></picture>
 
 - Methode `run()` implementieren, aber nicht aufrufen
 
@@ -189,8 +188,8 @@ Thread-Objekt) oder nach Ablauf der Schlafzeit (in `sleep()`) oder durch
 ein `notify`, und wird wieder zurück nach “ausführungsbereit” versetzt
 und wartet auf die Zuteilung einer Zeitscheibe durch den Scheduler.
 
-Sie finden in ([Boles 2008, Kap. 5.2](#ref-Boles2008) “Thread-Zustände”)
-eine schöne ausführliche Darstellung.
+Sie finden in ([Boles 2008, 5.2](#ref-Boles2008) “Thread-Zustände”) eine
+schöne ausführliche Darstellung.
 
 ### Threads können wie normale Objekte kommunizieren
 
@@ -285,8 +284,7 @@ OS) verwaltet
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Boles2008" class="csl-entry">
 >
@@ -298,7 +296,7 @@ OS) verwaltet
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> Oracle Corporation. 2022. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

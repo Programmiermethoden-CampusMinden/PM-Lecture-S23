@@ -24,12 +24,11 @@
 > `@Test(expected=package.Exception.class)`. In JUnit 4 besteht die
 > Möglichkeit, Testklassen zu Testsuiten zusammenzufassen und gemeinsam
 > laufen zu lassen.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -151,7 +150,7 @@ public void testBsp() {
 }
 ```
 
-<img src="images/junitIgnore.png" width="40%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/junitIgnore_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/junitIgnore_dark.png"><img src="images/junitIgnore.png" width="40%"></picture>
 
 In JUnit 5 wird statt der Annotation `@Ignore` die Annotation
 `@Disabled` mit der selben Bedeutung verwendet. Auch hier lässt sich als
@@ -172,7 +171,7 @@ void testTestDauerlaeufer() {
 }
 ```
 
-<img src="images/junitIgnore.png" width="40%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/junitIgnore_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/junitIgnore_dark.png"><img src="images/junitIgnore.png" width="40%"></picture>
 
 In JUnit 5 hat die Annotation `@Test` keinen `timeout`-Parameter mehr.
 Als Alternative bietet sich der Einsatz von
@@ -392,12 +391,12 @@ JUnit 5)
 
 ## 📖 Zum Nachlesen
 
-- vogella GmbH ([2021](#ref-vogellaJUnit))
+- <span class="nocase">vogella GmbH</span> ([2021](#ref-vogellaJUnit))
 - The JUnit Team ([2022](#ref-junit4))
 - Kleuker ([2019](#ref-Kleuker2019))
 - Osherove ([2014](#ref-Osherove2014))
 - Spillner und Linz ([2012](#ref-Spillner2012))
-- Thies, Noelke, und Ungerc ([o. J.](#ref-fernunihagenJunit))
+- Thies u. a. ([o. J.](#ref-fernunihagenJunit))
 
 > [!NOTE]
 >
@@ -497,8 +496,7 @@ JUnit 5)
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Kleuker2019" class="csl-entry">
 >
@@ -516,13 +514,13 @@ JUnit 5)
 > <div id="ref-Spillner2012" class="csl-entry">
 >
 > Spillner, A., und T. Linz. 2012. *Basiswissen Softwaretest*. 5. Aufl.
-> dpunkt.
+> Dpunkt.
 >
 > </div>
 >
 > <div id="ref-junit4" class="csl-entry">
 >
-> The JUnit Team. 2022. „JUnit 5“. 2022. <https://junit.org/>.
+> The JUnit Team. 2022. „JUnit 5“. <https://junit.org/>.
 >
 > </div>
 >
@@ -536,8 +534,9 @@ JUnit 5)
 >
 > <div id="ref-vogellaJUnit" class="csl-entry">
 >
-> vogella GmbH. 2021. „JUnit 5 Tutorial - Learn How to Write Unit
-> Tests“. 2021. <https://www.vogella.com/tutorials/JUnit/article.html>.
+> <span class="nocase">vogella GmbH</span>. 2021. „JUnit 5 Tutorial -
+> Learn How to Write Unit Tests“.
+> <https://www.vogella.com/tutorials/JUnit/article.html>.
 >
 > </div>
 >

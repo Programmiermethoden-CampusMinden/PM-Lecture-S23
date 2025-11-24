@@ -28,12 +28,11 @@
 > [GitHub](https://github.com) ist nicht Git, sondern ein kommerzieller
 > Anbieter, der das Hosten von Git-Repositories und weitere Features
 > anbietet.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -55,7 +54,7 @@
 
 ## Folgen SW-Entwicklung ohne Versionsverwaltung
 
-<img src="images/screenshot_zusammenarbeit_ohne_vcs.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_zusammenarbeit_ohne_vcs_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_zusammenarbeit_ohne_vcs_dark.png"><img src="images/screenshot_zusammenarbeit_ohne_vcs.png" width="80%"></picture>
 
 - Filesystem müllt voll mit manuell versionierten Dateien/Sicherungen
   ala `file_20120507_version2_cagi.txt`
@@ -68,7 +67,7 @@
 
 ## Prinzip Versionsverwaltung
 
-<img src="images/local.png" width="40%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/local_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/local_dark.png"><img src="images/local.png" width="40%"></picture>
 
 - **Repository:** **Datenbank** mit verschiedenen Versionsständen,
   Kommentaren, Tags etc.
@@ -79,7 +78,7 @@
 
 ## Varianten: Zentrale Versionsverwaltung (Beispiel SVN)
 
-<img src="images/centralised.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/centralised_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/centralised_dark.png"><img src="images/centralised.png" width="80%"></picture>
 
 Es gibt ein zentrales Repository (typischerweise auf einem Server), von
 dem die Developer einen bestimmten Versionsstand “auschecken” (sich
@@ -90,7 +89,7 @@ man entsprechend immer eine Verbindung zum Server.
 
 ## Varianten: Verteilte Versionsverwaltung (Beispiel Git)
 
-<img src="images/distributed.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/distributed_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/distributed_dark.png"><img src="images/distributed.png" width="80%"></picture>
 
 In diesem Szenario hat jeder Developer nicht nur die Workingcopy,
 sondern auch noch eine Kopie des Repositories. Zusätzlich kann es einen
@@ -229,12 +228,11 @@ Anschauen kann man sich die Einstellungen in der Textdatei
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-AtlassianGit" class="csl-entry">
 >
-> Atlassian Pty Ltd. 2022. „Become a Git Guru.“ 2022.
+> Atlassian Pty Ltd. 2022. „Become a Git Guru.“
 > <https://www.atlassian.com/git/tutorials>.
 >
 > </div>
@@ -248,8 +246,7 @@ Anschauen kann man sich die Einstellungen in der Textdatei
 >
 > <div id="ref-GitCheatSheet" class="csl-entry">
 >
-> Github Inc. 2022. „Git Cheat Sheets“. 2022.
-> <https://training.github.com/>.
+> Github Inc. 2022. „Git Cheat Sheets“. <https://training.github.com/>.
 >
 > </div>
 >

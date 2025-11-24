@@ -28,12 +28,11 @@
 > `java`, welches weitere Java-spezifische Tasks wie `classes`
 > mitbringt, oder das Plugin `checkstyle` zum Überprüfen von
 > Coding-Style-Richtlinien.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -545,7 +544,6 @@ Wrappers einem fest installierten Gradle vorzuziehen!
 > welche Aufgaben diese Abschnitte jeweils erfüllen. Gehen Sie dabei im
 > *Detail* auf das Plugin `java` und die dort bereitgestellten Tasks und
 > deren Abhängigkeiten untereinander ein.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -556,18 +554,17 @@ Wrappers einem fest installierten Gradle vorzuziehen!
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Gradle" class="csl-entry">
 >
-> Gradle Inc. 2022. „Gradle Build Tool“. 2022. <https://gradle.org/>.
+> Gradle Inc. 2022. „Gradle Build Tool“. <https://gradle.org/>.
 >
 > </div>
 >
 > <div id="ref-Inden2013" class="csl-entry">
 >
-> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. dpunkt.verlag.
+> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. Dpunkt.verlag.
 >
 > </div>
 >

@@ -27,12 +27,11 @@
 > aber “Java-Code nach Style formatiert”). Falls der Kommentar länger
 > sein soll, folgt eine Leerzeile auf die erste Zeile (Zusammenfassung)
 > und danach ein Block mit der längeren Erklärung.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -70,7 +69,7 @@
 
 ## Dateien unter Versionskontrolle stellen
 
-<img src="images/workflow.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/workflow_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/workflow_dark.png"><img src="images/workflow.png" width="80%"></picture>
 
 1.  `git add .` (oder `git add <file>`)
 
@@ -85,7 +84,7 @@
 
 ## Änderungen einpflegen
 
-<img src="images/lifecycle.png" width="70%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/lifecycle_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/lifecycle_dark.png"><img src="images/lifecycle.png" width="70%"></picture>
 
 - Abfrage mit: `git status`
 - “Staging” von modifizierten Dateien: `git add <file>`
@@ -283,7 +282,7 @@ Schauen Sie sich einmal einen Screenshot eines
 [Dungeon-CampusMinden/Dungeon](https://github.com/Dungeon-CampusMinden/Dungeon)
 an:
 
-<img src="images/screenshot_git_log.png">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_git_log_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_git_log_dark.png"><img src="images/screenshot_git_log.png"></picture>
 
 Nun stellen Sie sich vor, Sie sind auf der Suche nach Informationen,
 suchen einen bestimmten Commit oder wollen eine bestimmte Änderung
@@ -305,7 +304,7 @@ Leider sagt sich das so leicht - in der Praxis macht man es dann doch
 schnell wieder unsauber. Dennoch, auch im Dungeon-Repo gibt es einen
 positiven Trend (`git log --oneline 8039d6c..7f49e89`):
 
-<img src="images/screenshot_git_log_recent.png">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_git_log_recent_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_git_log_recent_dark.png"><img src="images/screenshot_git_log_recent.png"></picture>
 
 Typische Regeln und Konventionen tauchen überall auf, beispielsweise in
 Chacon und Straub ([2014](#ref-Chacon2014)) oder bei Tim Pope (siehe
@@ -432,12 +431,11 @@ Message”](https://cbea.ms/git-commit/)!**
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-AtlassianGit" class="csl-entry">
 >
-> Atlassian Pty Ltd. 2022. „Become a Git Guru.“ 2022.
+> Atlassian Pty Ltd. 2022. „Become a Git Guru.“
 > <https://www.atlassian.com/git/tutorials>.
 >
 > </div>
@@ -451,8 +449,7 @@ Message”](https://cbea.ms/git-commit/)!**
 >
 > <div id="ref-GitCheatSheet" class="csl-entry">
 >
-> Github Inc. 2022. „Git Cheat Sheets“. 2022.
-> <https://training.github.com/>.
+> Github Inc. 2022. „Git Cheat Sheets“. <https://training.github.com/>.
 >
 > </div>
 >
@@ -472,4 +469,4 @@ Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
   Messages”](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
   by [Tim Pope](https://tpo.pe/) on tbaggery.com
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> a7fcc94 (tooling: rename 'origin' to 'credits', 2025-08-22)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> a7fcc94 (tooling: rename origin to credits, 2025-08-22)<br></sub></sup></p></blockquote>

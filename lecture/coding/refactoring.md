@@ -22,12 +22,11 @@
 > unbedingt einheitlich benannt sein müssen oder in jeder IDE vorkommen.
 > Zu den häufig genutzten Methoden zählen *Rename*, *Extract*, *Move*
 > und *Push Up/Pull Down*.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -469,8 +468,7 @@ Verhaltens
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Fowler2011" class="csl-entry">
 >
@@ -480,7 +478,7 @@ Verhaltens
 >
 > <div id="ref-Inden2013" class="csl-entry">
 >
-> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. dpunkt.verlag.
+> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. Dpunkt.verlag.
 >
 > </div>
 >
@@ -503,12 +501,12 @@ Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
 **Exceptions:**
 
+- “*Three strikes…*”: ([Fowler 2011](#ref-Fowler2011), p. 58): “The Rule
+  of Three”
 - [“356:
   Refactoring”](http://altlasten.lutz.donnerhacke.de/mitarb/lutz/usenet/Fachbegriffe.der.Informatik.html#356)
   by [Andreas Bogk](mailto:andreas@andreas.org) on Lutz Donnerhacke:
   “Fachbegriffe der Informatik”
 - “*Refactoring*”: ([Fowler 2011](#ref-Fowler2011), p. 53)
-- “*Three strikes…*”: ([Fowler 2011](#ref-Fowler2011), p. 58): “The Rule
-  of Three”
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> a7fcc94 (tooling: rename 'origin' to 'credits', 2025-08-22)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> a7fcc94 (tooling: rename origin to credits, 2025-08-22)<br></sub></sup></p></blockquote>

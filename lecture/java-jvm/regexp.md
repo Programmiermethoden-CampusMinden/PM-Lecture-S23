@@ -28,12 +28,11 @@
 > Pattern auf den Suchstring passt: `find` sucht dabei nach dem ersten
 > Vorkommen des Patterns im Suchstring, `match` prüft, ob der gesamte
 > String zum Pattern passt.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -481,7 +480,6 @@ Lösung: `([A-Z][a-zA-Z]*)\s\1`
 > Reihenfolge die Token eingefügt und abgearbeitet werden. Beispiel: Im
 > regulären Ausdruck für den einzeiligen Kommentar brauchen Sie keine
 > Keywords, Annotationen, Strings usw. erkennen.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -492,12 +490,11 @@ Lösung: `([A-Z][a-zA-Z]*)\s\1`
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> Oracle Corporation. 2022. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

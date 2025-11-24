@@ -27,12 +27,11 @@
 > Objekt die Methode aus der Schnittstelle aufgerufen. Dies nennt man
 > auch “Delegation”, weil die Aufgabe (das Verhalten) an ein anderes
 > Objekt (hier das Strategie-Objekt) weiter gereicht (delegiert) wurde.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -43,7 +42,7 @@
 
 ## Wie kann man das Verhalten einer Klasse dynamisch ändern?
 
-<img src="images/hunde.png" width="60%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/hunde_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/hunde_dark.png"><img src="images/hunde.png" width="60%"></picture>
 
 Modellierung unterschiedlicher Hunderassen: Jede Art bellt anders.
 
@@ -57,7 +56,7 @@ konkrete Bulldoggen geben mag, die nur leise fiepen …
 
 ## Lösung: Delegation der Aufgabe an geeignetes Objekt
 
-<img src="images/hunde_strat.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/hunde_strat_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/hunde_strat_dark.png"><img src="images/hunde_strat.png" width="80%"></picture>
 
 Der `Hund` delegiert das Verhalten beim Bellen an ein Objekt, welches
 beispielsweise bei der Instantiierung der Klasse übergeben wurde (oder
@@ -150,7 +149,7 @@ Fragen:
 
 ## Auflösung
 
-<img src="images/translator.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/translator_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/translator_dark.png"><img src="images/translator.png" width="80%"></picture>
 
 <p align="right"><a href="https://github.com/Programmiermethoden-CampusMinden/PM-Lecture/blob/master/markdown/pattern/src/strategy/TranslatorExample.java">Konsole strategy.TranslatorExample</a></p>
 
@@ -234,8 +233,7 @@ Objekt
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Eilebrecht2013" class="csl-entry">
 >

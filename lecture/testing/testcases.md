@@ -36,12 +36,11 @@
 > Wenn ein Testfall sich aus den gültigen ÄK/GW speist, spricht man auch
 > von einem “Positiv-Test”; wenn ungültige ÄK/GW genutzt werden, spricht
 > man auch von einem “Negativ-Test”.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -94,7 +93,7 @@ Grenzwertanalyse (siehe nächste Folien). Mehr dann später im Wahlfach
 Beispiel: Zu testende Methode mit Eingabewert *x*, der zw. 10 und 100
 liegen soll
 
-<img src="images/aequivalenzklassen.png" width="40%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/aequivalenzklassen_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/aequivalenzklassen_dark.png"><img src="images/aequivalenzklassen.png" width="40%"></picture>
 
 - Zerlegung der Definitionsbereiche in Äquivalenzklassen (ÄK):
 
@@ -216,7 +215,7 @@ zufälliger Repräsentant ausgewählt.**
 
 ## Grenzwertanalyse
 
-<img src="images/grenzwerte.png" width="40%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/grenzwerte_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/grenzwerte_dark.png"><img src="images/grenzwerte.png" width="40%"></picture>
 
 Beobachtung: Grenzen in Verzweigungen/Schleifen kritisch
 
@@ -296,12 +295,12 @@ Vergleiche Kleuker ([2019](#ref-Kleuker2019)), Abschnitt “4.4
 
 ## 📖 Zum Nachlesen
 
-- vogella GmbH ([2021](#ref-vogellaJUnit))
+- <span class="nocase">vogella GmbH</span> ([2021](#ref-vogellaJUnit))
 - The JUnit Team ([2022](#ref-junit4))
 - Kleuker ([2019](#ref-Kleuker2019))
 - Osherove ([2014](#ref-Osherove2014))
 - Spillner und Linz ([2012](#ref-Spillner2012))
-- Thies, Noelke, und Ungerc ([o. J.](#ref-fernunihagenJunit))
+- Thies u. a. ([o. J.](#ref-fernunihagenJunit))
 
 > [!NOTE]
 >
@@ -392,8 +391,7 @@ Vergleiche Kleuker ([2019](#ref-Kleuker2019)), Abschnitt “4.4
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Kleuker2019" class="csl-entry">
 >
@@ -411,13 +409,13 @@ Vergleiche Kleuker ([2019](#ref-Kleuker2019)), Abschnitt “4.4
 > <div id="ref-Spillner2012" class="csl-entry">
 >
 > Spillner, A., und T. Linz. 2012. *Basiswissen Softwaretest*. 5. Aufl.
-> dpunkt.
+> Dpunkt.
 >
 > </div>
 >
 > <div id="ref-junit4" class="csl-entry">
 >
-> The JUnit Team. 2022. „JUnit 5“. 2022. <https://junit.org/>.
+> The JUnit Team. 2022. „JUnit 5“. <https://junit.org/>.
 >
 > </div>
 >
@@ -431,8 +429,9 @@ Vergleiche Kleuker ([2019](#ref-Kleuker2019)), Abschnitt “4.4
 >
 > <div id="ref-vogellaJUnit" class="csl-entry">
 >
-> vogella GmbH. 2021. „JUnit 5 Tutorial - Learn How to Write Unit
-> Tests“. 2021. <https://www.vogella.com/tutorials/JUnit/article.html>.
+> <span class="nocase">vogella GmbH</span>. 2021. „JUnit 5 Tutorial -
+> Learn How to Write Unit Tests“.
+> <https://www.vogella.com/tutorials/JUnit/article.html>.
 >
 > </div>
 >

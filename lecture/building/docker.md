@@ -44,12 +44,11 @@
 > Containern oder zwischen Containern und anderen Rechnern) und Volumnes
 > habe ich außen vor gelassen. Dennoch kommt man in der Praxis bereits
 > mit den hier vermittelten Basiskenntnissen erstaunlich weit …
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -63,7 +62,7 @@
 
 ## Motivation CI/CD: WFM (*Works For Me*)
 
-<img src="images/ci.png" width="60%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/ci_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/ci_dark.png"><img src="images/ci.png" width="60%"></picture>
 
 Auf dem CI-Server muss man eine Arbeitsumgebung konfigurieren und
 bereitstellen, für Java-basierte Projekte muss beispielsweise ein JDK
@@ -95,7 +94,7 @@ In diesen Fällen kann eine Virtualisierung helfen.
 
 ## Virtualisierung: Container vs. VM
 
-<img src="images/virtualisierung.png" width="60%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/virtualisierung_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/virtualisierung_dark.png"><img src="images/virtualisierung.png" width="60%"></picture>
 
 Wenn man über Virtualisierung auf dem Desktop spricht, kann man grob
 zwei Varianten unterscheiden. In beiden Fällen ist die Basis die
@@ -357,7 +356,7 @@ gesendet. Im Prinzip entspricht das dem Aufruf auf dem lokalen Rechner:
 
 ## VSCode und das Plugin “Remote - Containers”
 
-<img src="images/vscode-remote.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/vscode-remote_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/vscode-remote_dark.png"><img src="images/vscode-remote.png" width="80%"></picture>
 
 1.  VSCode (Host): Plugin “Remote - Containers” installieren
 2.  Docker (Host): Container starten mit Workspace gemountet
@@ -482,12 +481,11 @@ Codespaces](https://github.com/features/codespaces) von GitHub auf.
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Inden2013" class="csl-entry">
 >
-> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. dpunkt.verlag.
+> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. Dpunkt.verlag.
 >
 > </div>
 >

@@ -26,12 +26,11 @@
 > Methode. Die Methoden-Referenz muss von der Syntax her dieser einen
 > abstrakten Methode entsprechen (bei der dritten Form wird die Methode
 > auf dem ersten Parameter aufgerufen).
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -305,7 +304,7 @@ Seit Java8: **Methoden-Referenzen** statt anonymer Klassen
 ## 📖 Zum Nachlesen
 
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
-- Urma, Fusco, und Mycroft ([2014, Kap. 3](#ref-Urma2014))
+- Urma u. a. ([2014, Kap. 3](#ref-Urma2014))
 
 > [!NOTE]
 >
@@ -386,12 +385,11 @@ Seit Java8: **Methoden-Referenzen** statt anonymer Klassen
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> Oracle Corporation. 2022. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

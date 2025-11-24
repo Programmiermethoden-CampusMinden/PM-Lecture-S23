@@ -21,12 +21,11 @@
 > *Singleton-Pattern* vor, wo es nur eine einzige Instanz einer Klasse
 > geben soll. Über eine Fabrik-Methode kann man diese Instanz ggf.
 > erzeugen und dann die Referenz darauf zurückliefern.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -50,7 +49,7 @@ Nutzer erzeugt werden
 
 ## Factory-Method-Pattern
 
-<img src="images/factorymethod.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/factorymethod_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/factorymethod_dark.png"><img src="images/factorymethod.png" width="80%"></picture>
 
 ## Hands-On: Ticket-App
 
@@ -163,8 +162,7 @@ des Factory-Method Entwurfsmusters generiert.
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Eilebrecht2013" class="csl-entry">
 >

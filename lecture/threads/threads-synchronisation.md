@@ -48,12 +48,11 @@
 > aber den Rahmen dieser Lehrveranstaltung deutlich übersteigen. Diese
 > werden teilweise in den Veranstaltungen “Betriebssysteme” und/oder
 > “Verteilte Systeme” besprochen.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -366,7 +365,6 @@ Ressourcen:
 >
 > **Hinweis**: Achten Sie darauf, nur die nötigsten Ressourcen zu
 > blockieren und auch nur so lange wie unbedingt nötig.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -377,8 +375,7 @@ Ressourcen:
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Boles2008" class="csl-entry">
 >
@@ -390,7 +387,7 @@ Ressourcen:
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> Oracle Corporation. 2022. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

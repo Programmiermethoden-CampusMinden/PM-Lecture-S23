@@ -41,12 +41,11 @@
 > Der Lambda-Ausdruck muss von der Signatur her genau der einen
 > abstrakten Methode im unterliegenden funktionalen Interface
 > entsprechen.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -401,7 +400,7 @@ Lambda-Ausdruck stolpert:
 ## 📖 Zum Nachlesen
 
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
-- Urma, Fusco, und Mycroft ([2014, Kap. 3](#ref-Urma2014))
+- Urma u. a. ([2014, Kap. 3](#ref-Urma2014))
 - Ullenboom ([2021, Kap. 12](#ref-Ullenboom2021))
 
 > [!NOTE]
@@ -533,12 +532,11 @@ Lambda-Ausdruck stolpert:
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> Oracle Corporation. 2022. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

@@ -29,7 +29,7 @@
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -106,7 +106,7 @@ genutzt.
 
 ## Command: Objektorientierte Antwort auf Callback-Funktionen
 
-<img src="images/command.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/command_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/command_dark.png"><img src="images/command.png" width="80%"></picture>
 
 Im Command-Pattern gibt es vier beteiligte Parteien: Client, Receiver,
 Command und Invoker.
@@ -262,7 +262,6 @@ keine weitere Buchhaltung …
 >
 > Schreiben Sie eine Demo, um die Funktionalität Ihres Programmes zu
 > demonstrieren.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -273,8 +272,7 @@ keine weitere Buchhaltung …
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Gamma2011" class="csl-entry">
 >

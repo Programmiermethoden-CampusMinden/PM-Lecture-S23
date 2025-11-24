@@ -26,12 +26,11 @@
 > aufgerufen. D.h. die Aufrufe der Hilfsmethoden in der Template-Methode
 > führen zu den in der jeweiligen ableitenden Klasse implementierten
 > Varianten.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -184,7 +183,7 @@ Dies ist ein Beispiel für das
 
 ## Template-Method-Pattern
 
-<img src="images/template-method.png" width="50%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/template-method_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/template-method_dark.png"><img src="images/template-method.png" width="50%"></picture>
 
 ### Aufbau Template-Method-Pattern
 
@@ -289,7 +288,6 @@ Template-Method-Pattern: Verhaltensänderung durch Vererbungsbeziehungen
 >   Laserdrucker.”
 >
 > Nutzen Sie das Template-Method-Pattern.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -300,8 +298,7 @@ Template-Method-Pattern: Verhaltensänderung durch Vererbungsbeziehungen
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Eilebrecht2013" class="csl-entry">
 >

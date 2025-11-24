@@ -33,12 +33,11 @@
 > die stabilen Release-Stände enthält. Vom `master` zweigen direkt die
 > kleinen Feature-Branches ab und werden auch wieder direkt in den
 > `master` integriert.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -48,7 +47,7 @@
 
 ## Nutzung von Git in Projekten: Verteiltes Git (und Workflows)
 
-<img src="images/distributed.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/distributed_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/distributed_dark.png"><img src="images/distributed.png" width="80%"></picture>
 
 Git ermöglicht ein einfaches und schnelles Branchen. Dies kann man mit
 entsprechenden Branching-Strategien sinnvoll für die SW-Entwicklung
@@ -351,19 +350,18 @@ Diskussionen, welche Linux-Distribution die bessere sei):
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-AtlassianGit" class="csl-entry">
 >
-> Atlassian Pty Ltd. 2022. „Become a Git Guru.“ 2022.
+> Atlassian Pty Ltd. 2022. „Become a Git Guru.“
 > <https://www.atlassian.com/git/tutorials>.
 >
 > </div>
 >
 > <div id="ref-GitHubFlow" class="csl-entry">
 >
-> Chacon, S. 2013. „GitHub Flow“. 2013. <https://githubflow.github.io/>.
+> Chacon, S. 2013. „GitHub Flow“. <https://githubflow.github.io/>.
 >
 > </div>
 >
@@ -376,21 +374,20 @@ Diskussionen, welche Linux-Distribution die bessere sei):
 >
 > <div id="ref-GitFlow" class="csl-entry">
 >
-> Driessen, V. 2010. „Git-Flow: A Successful Git Branching Model“. 2010.
+> Driessen, V. 2010. „Git-Flow: A Successful Git Branching Model“.
 > <https://nvie.com/posts/a-successful-git-branching-model/>.
 >
 > </div>
 >
 > <div id="ref-GitCheatSheet" class="csl-entry">
 >
-> Github Inc. 2022. „Git Cheat Sheets“. 2022.
-> <https://training.github.com/>.
+> Github Inc. 2022. „Git Cheat Sheets“. <https://training.github.com/>.
 >
 > </div>
 >
 > <div id="ref-GitHubFlowGH" class="csl-entry">
 >
-> GitHub Inc. 2022. „GitHub Flow“. 2022.
+> GitHub Inc. 2022. „GitHub Flow“.
 > <https://docs.github.com/en/get-started/quickstart/github-flow>.
 >
 > </div>

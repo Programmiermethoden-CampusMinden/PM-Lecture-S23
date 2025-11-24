@@ -25,12 +25,11 @@
 > Elemente (Klassen, Methoden, Attribute) mit Javadoc kommentiert. Alle
 > nicht-öffentlichen Elemente bekommen normale Java-Kommentare (Zeilen-
 > oder Blockkommentare).
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -207,7 +206,7 @@ sein sollte. Versuchen Sie, dieses zu erreichen!
 
 ## 📖 Zum Nachlesen
 
-- Ullenboom ([2021, Kap. 23.4](#ref-Ullenboom2021))
+- Ullenboom ([2021, 23.4](#ref-Ullenboom2021))
 - Google Open Source ([2022, Kap. 7](#ref-googlestyleguide))
 
 > [!NOTE]
@@ -244,12 +243,11 @@ sein sollte. Versuchen Sie, dieses zu erreichen!
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-googlestyleguide" class="csl-entry">
 >
-> Google Open Source. 2022. „Google Java Style Guide“. 2022.
+> Google Open Source. 2022. „Google Java Style Guide“.
 > <https://google.github.io/styleguide/javaguide.html>.
 >
 > </div>

@@ -13,12 +13,11 @@
 > Regel `Object`. Zusätzlich baut der Compiler die nötigen Casts ein.
 > Als Anwender merkt man davon nichts, muss das “Type-Erasure” wegen der
 > Auswirkungen aber auf dem Radar haben!
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -252,7 +251,7 @@ Grund: Es gibt nur `List.class` (und kein `List<String>.class` bzw.
 
 ## 📖 Zum Nachlesen
 
-- Ullenboom ([2021, Kap. 11.2](#ref-Ullenboom2021) und 11.6)
+- Ullenboom ([2021, 11.2](#ref-Ullenboom2021) und 11.6)
 - Oracle Corporation ([2022a](#ref-LernJava))
 - Oracle Corporation ([2022b](#ref-Java-SE-Tutorial))
 - Bloch ([2018](#ref-Bloch2018))
@@ -286,8 +285,7 @@ Grund: Es gibt nur `List.class` (und kein `List<String>.class` bzw.
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Bloch2018" class="csl-entry">
 >
@@ -297,14 +295,13 @@ Grund: Es gibt nur `List.class` (und kein `List<String>.class` bzw.
 >
 > <div id="ref-LernJava" class="csl-entry">
 >
-> Oracle Corporation. 2022a. „Learn Java“. 2022.
-> <https://dev.java/learn/>.
+> Oracle Corporation. 2022a. „Learn Java“. <https://dev.java/learn/>.
 >
 > </div>
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> ———. 2022b. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022b. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

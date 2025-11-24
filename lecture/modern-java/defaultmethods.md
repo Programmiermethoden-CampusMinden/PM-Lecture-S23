@@ -30,12 +30,11 @@
 >
 > Aktuell ist der Unterschied zu abstrakten Klassen: Interfaces können
 > **keinen Zustand** haben, d.h. keine Attribute/Felder.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -314,7 +313,7 @@ Seit Java8: Interfaces mit Implementierung: **Default-Methoden**
 ## 📖 Zum Nachlesen
 
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
-- Urma, Fusco, und Mycroft ([2014, Kap. 9](#ref-Urma2014))
+- Urma u. a. ([2014, Kap. 9](#ref-Urma2014))
 
 > [!NOTE]
 >
@@ -350,7 +349,6 @@ Seit Java8: Interfaces mit Implementierung: **Default-Methoden**
 > Erklären Sie die Code-Schnipsel in der
 > [Vorgabe](https://github.com/Programmiermethoden-CampusMinden/PM-Lecture/tree/master/markdown/modern-java/src/challenges/defaults)
 > und die jeweils entstehenden Ausgaben.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -361,12 +359,11 @@ Seit Java8: Interfaces mit Implementierung: **Default-Methoden**
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> Oracle Corporation. 2022. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

@@ -22,12 +22,11 @@
 > Interaktion mit dem gemockten Objekt überprüfen und testen, ob eine
 > bestimmte Methode mit bestimmten Argumenten aufgerufen wurde und wie
 > oft.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -817,7 +816,6 @@ public void testVerify_InteraktionenMitHilfeDesArgumentCaptor() {
 > auf deren Auftreten jedoch *nicht* getestet werden soll. Stattdessen
 > sollen diese Klassen bzw. Methoden mit Mockito “weggemockt” werden, so
 > dass die vorgegebenen Testmethoden (wieder) funktionieren.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -828,13 +826,12 @@ public void testVerify_InteraktionenMitHilfeDesArgumentCaptor() {
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Mockito" class="csl-entry">
 >
 > S. Faber and B. Dutheil and R. Winterhalter and T.v.d. Lippe. 2022.
-> „Mockito“. 2022. <https://github.com/mockito/mockito>.
+> „Mockito“. <https://github.com/mockito/mockito>.
 >
 > </div>
 >

@@ -19,12 +19,11 @@
 > Den sogenannten *Extrinsic State*, also alle individuellen
 > Eigenschaften, werden entsprechend individuell je Objekt
 > modelliert/eingestellt.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -203,7 +202,7 @@ genutzt und die Texturen u.ä. nur je einmal im Speicher repräsentiert.
 
 ## Flyweight-Pattern: Klassische Modellierung
 
-<img src="images/flyweight.png" width="60%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/flyweight_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/flyweight_dark.png"><img src="images/flyweight.png" width="60%"></picture>
 
 Im klassischen Flyweight-Pattern der “Gang of Four” ([Gamma u. a.
 2011](#ref-Gamma2011)) wird ein gemeinsames Interface erstellt, von dem
@@ -231,7 +230,7 @@ Factory erzeugt/verwaltet.
 In der Praxis kann man das Pattern so direkt meist nicht einsetzen,
 sondern verbindet es mit dem Composite-Pattern:
 
-<img src="images/composite.png" width="40%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/composite_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/composite_dark.png"><img src="images/composite.png" width="40%"></picture>
 
 Ein Element kann eine einfache Komponente sein (im obigen Beispiel war
 das die Klasse `TileModel`) oder eine zusammengesetzte Komponente, die
@@ -380,7 +379,6 @@ Nutzung von Objekten
 > Wieso eignet sich das Flyweight-Pattern besonders im Bereich von
 > Computerspielen? Geben Sie mögliche Vor- und Nachteile an und
 > begründen Sie Ihre Antwort.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -391,8 +389,7 @@ Nutzung von Objekten
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Gamma2011" class="csl-entry">
 >

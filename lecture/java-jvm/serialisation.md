@@ -35,12 +35,11 @@
 > der Klasse passen. Da dies relativ empfindlich gegenüber Änderungen an
 > einer Klasse ist, wird empfohlen, selbst eine `serialVersionUID` pro
 > Klasse zu definieren.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -262,7 +261,7 @@ Weitere Links:
 >
 > Implementieren Sie die beiden Klassen entsprechend dem UML-Diagram:
 >
-> <img src="images/uml_serialisierung.png">
+> <picture><source media="(prefers-color-scheme: light)" srcset="images/uml_serialisierung_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/uml_serialisierung_dark.png"><img src="images/uml_serialisierung.png"></picture>
 >
 > Objekte vom Typ `Person` sowie `Address` sollen serialisierbar sein
 > (vgl. Vorlesung). Dabei soll das Passwort nicht serialisiert bzw.
@@ -279,7 +278,6 @@ Weitere Links:
 > Betrachten Sie die ursprünglichen und die wieder deserialisierten
 > Objekte mit Hilfe des Debuggers. Alternativ können Sie die Objekte
 > auch in übersichtlicher Form über den Logger ausgeben.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -290,8 +288,7 @@ Weitere Links:
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Bloch2018" class="csl-entry">
 >
@@ -301,7 +298,7 @@ Weitere Links:
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> Oracle Corporation. 2022. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

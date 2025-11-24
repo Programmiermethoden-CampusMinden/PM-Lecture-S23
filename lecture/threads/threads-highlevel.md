@@ -28,12 +28,11 @@
 >
 > Die in Swing integrierte Klasse `SwingWorker` ermöglicht es, in Swing
 > Berechnungen in einen parallel ausgeführten Thread auszulagern.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -317,7 +316,7 @@ Multi-Threading auf höherem Level: Thread-Pools und Fork/Join-Framework
 
 - Ullenboom ([2021, Kap. 16](#ref-Ullenboom2021))
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
-- Urma, Fusco, und Mycroft ([2014, Kap. 7.2](#ref-Urma2014))
+- Urma u. a. ([2014, 7.2](#ref-Urma2014))
 
 > [!NOTE]
 >
@@ -350,12 +349,11 @@ Multi-Threading auf höherem Level: Thread-Pools und Fork/Join-Framework
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> Oracle Corporation. 2022. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

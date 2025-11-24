@@ -31,12 +31,11 @@
 > weitere Fehler maskiert. Deshalb ist es gute Praxis, in einer
 > Testmethode nur einen Testfall zu implementieren und i.d.R. auch nur
 > ein (oder wenige) Aufrufe von `assert*()` pro Testmethode zu haben.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -48,7 +47,7 @@
 
 ## Software-Fehler und ihre Folgen
 
-<img src="images/swfehler.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/swfehler_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/swfehler_dark.png"><img src="images/swfehler.png" width="80%"></picture>
 
 ## (Einige) Ursachen für Fehler
 
@@ -181,7 +180,7 @@ werden, da diese Version nicht mehr weiterentwickelt wird.
   - Package-Strukturen spiegeln
   - Testklassen mit Suffix “`Test`”
 
-<img src="images/newJUnit.png" width="40%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/newJUnit_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/newJUnit_dark.png"><img src="images/newJUnit.png" width="40%"></picture>
 
 Vorteile dieses Vorgehens:
 
@@ -296,7 +295,7 @@ import static packageName.className.*;
 
 ## Mögliche Testausgänge bei JUnit
 
-<img src="images/junitErgebnis.png" width="40%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/junitErgebnis_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/junitErgebnis_dark.png"><img src="images/junitErgebnis.png" width="40%"></picture>
 
 1.  **Error**: Fehler im Programm (Test)
     - Unbehandelte Exception
@@ -333,12 +332,12 @@ import static packageName.className.*;
 
 ## 📖 Zum Nachlesen
 
-- vogella GmbH ([2021](#ref-vogellaJUnit))
+- <span class="nocase">vogella GmbH</span> ([2021](#ref-vogellaJUnit))
 - The JUnit Team ([2022](#ref-junit4))
 - Kleuker ([2019](#ref-Kleuker2019))
 - Osherove ([2014](#ref-Osherove2014))
 - Spillner und Linz ([2012](#ref-Spillner2012))
-- Thies, Noelke, und Ungerc ([o. J.](#ref-fernunihagenJunit))
+- Thies u. a. ([o. J.](#ref-fernunihagenJunit))
 
 > [!NOTE]
 >
@@ -371,8 +370,7 @@ import static packageName.className.*;
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Kleuker2019" class="csl-entry">
 >
@@ -390,13 +388,13 @@ import static packageName.className.*;
 > <div id="ref-Spillner2012" class="csl-entry">
 >
 > Spillner, A., und T. Linz. 2012. *Basiswissen Softwaretest*. 5. Aufl.
-> dpunkt.
+> Dpunkt.
 >
 > </div>
 >
 > <div id="ref-junit4" class="csl-entry">
 >
-> The JUnit Team. 2022. „JUnit 5“. 2022. <https://junit.org/>.
+> The JUnit Team. 2022. „JUnit 5“. <https://junit.org/>.
 >
 > </div>
 >
@@ -410,8 +408,9 @@ import static packageName.className.*;
 >
 > <div id="ref-vogellaJUnit" class="csl-entry">
 >
-> vogella GmbH. 2021. „JUnit 5 Tutorial - Learn How to Write Unit
-> Tests“. 2021. <https://www.vogella.com/tutorials/JUnit/article.html>.
+> <span class="nocase">vogella GmbH</span>. 2021. „JUnit 5 Tutorial -
+> Learn How to Write Unit Tests“.
+> <https://www.vogella.com/tutorials/JUnit/article.html>.
 >
 > </div>
 >

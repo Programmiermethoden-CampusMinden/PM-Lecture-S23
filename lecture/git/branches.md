@@ -29,12 +29,11 @@
 >
 > Mit `git rebase` kann die Wurzel eines Branches an eine andere Stelle
 > verschoben werden. Dies wird später bei Workflows eine Rolle spielen.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -432,12 +431,11 @@ Man beachte aber die Änderung der Commit-IDs von `wuppie`: Aus `D` wird
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-AtlassianGit" class="csl-entry">
 >
-> Atlassian Pty Ltd. 2022. „Become a Git Guru.“ 2022.
+> Atlassian Pty Ltd. 2022. „Become a Git Guru.“
 > <https://www.atlassian.com/git/tutorials>.
 >
 > </div>
@@ -451,8 +449,7 @@ Man beachte aber die Änderung der Commit-IDs von `wuppie`: Aus `D` wird
 >
 > <div id="ref-GitCheatSheet" class="csl-entry">
 >
-> Github Inc. 2022. „Git Cheat Sheets“. 2022.
-> <https://training.github.com/>.
+> Github Inc. 2022. „Git Cheat Sheets“. <https://training.github.com/>.
 >
 > </div>
 >

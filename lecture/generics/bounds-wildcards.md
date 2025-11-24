@@ -20,12 +20,11 @@
 > Ein Wildcard (`?`) als Typ-Parameter steht für einen beliebigen Typ,
 > wobei die Typ-Variable keinen Namen bekommt und damit innerhalb der
 > Klasse/Methode nicht zugreifbar ist.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -185,7 +184,7 @@ abstützen und hat dann auch wieder die `printInfo`-Methode zur Verfügung
 
 ## 📖 Zum Nachlesen
 
-- Ullenboom ([2021, Kap. 11.3](#ref-Ullenboom2021))
+- Ullenboom ([2021, 11.3](#ref-Ullenboom2021))
 - Oracle Corporation ([2022a](#ref-LernJava))
 - Oracle Corporation ([2022b](#ref-Java-SE-Tutorial))
 - Bloch ([2018](#ref-Bloch2018))
@@ -279,8 +278,7 @@ abstützen und hat dann auch wieder die `printInfo`-Methode zur Verfügung
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Bloch2018" class="csl-entry">
 >
@@ -290,14 +288,13 @@ abstützen und hat dann auch wieder die `printInfo`-Methode zur Verfügung
 >
 > <div id="ref-LernJava" class="csl-entry">
 >
-> Oracle Corporation. 2022a. „Learn Java“. 2022.
-> <https://dev.java/learn/>.
+> Oracle Corporation. 2022a. „Learn Java“. <https://dev.java/learn/>.
 >
 > </div>
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> ———. 2022b. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022b. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

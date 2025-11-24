@@ -53,12 +53,11 @@
 > Checkstyle-Konfiguration wird eine minimale
 > [checkstyle.xml](https://github.com/Programmiermethoden-CampusMinden/PM-Lecture/tree/master/markdown/coding/src/checkstyle.xml)
 > bereitgestellt (vgl. Folie “Konfiguration für das PM-Praktikum”).
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -627,25 +626,24 @@ Warnungen oder Fehler beinhalten, die SpotBugs melden würde.
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-googlestyleguide" class="csl-entry">
 >
-> Google Open Source. 2022. „Google Java Style Guide“. 2022.
+> Google Open Source. 2022. „Google Java Style Guide“.
 > <https://google.github.io/styleguide/javaguide.html>.
 >
 > </div>
 >
 > <div id="ref-Inden2013" class="csl-entry">
 >
-> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. dpunkt.verlag.
+> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. Dpunkt.verlag.
 >
 > </div>
 >
 > <div id="ref-Martin2009" class="csl-entry">
 >
-> Martin, R. 2009. *Clean Code*. mitp.
+> Martin, R. 2009. *Clean Code*. Mitp.
 >
 > </div>
 >

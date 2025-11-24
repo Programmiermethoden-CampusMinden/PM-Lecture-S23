@@ -41,12 +41,11 @@
 > Wir können hier nur die absoluten Grundlagen betrachten. Die
 > Stream-API ist sehr groß und mächtig und lohnt die weitere
 > selbstständige Auseinandersetzung :-)
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -422,7 +421,7 @@ java.util.stream”](https://docs.oracle.com/en/java/javase/17/docs/api/java.bas
 ## 📖 Zum Nachlesen
 
 - Oracle Corporation ([2022](#ref-LernJava))
-- Ullenboom ([2021, Kap. 17.3–17.6](#ref-Ullenboom2021))
+- Ullenboom ([2021, 17.3–17.6](#ref-Ullenboom2021))
 
 > [!NOTE]
 >
@@ -474,7 +473,6 @@ java.util.stream”](https://docs.oracle.com/en/java/javase/17/docs/api/java.bas
 > Refactoring durch, so dass in diesen Methoden jeweils die Java
 > Stream-API genutzt wird und es keine
 > `for`-/`foreach`-/`while`-Schleifen mehr gibt.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -485,13 +483,11 @@ java.util.stream”](https://docs.oracle.com/en/java/javase/17/docs/api/java.bas
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-LernJava" class="csl-entry">
 >
-> Oracle Corporation. 2022. „Learn Java“. 2022.
-> <https://dev.java/learn/>.
+> Oracle Corporation. 2022. „Learn Java“. <https://dev.java/learn/>.
 >
 > </div>
 >

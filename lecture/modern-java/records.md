@@ -37,12 +37,11 @@
 > Record-Klasse nicht von weiteren Klassen ableiten (erben). Man kann
 > aber beliebig viele Interfaces implementieren. Record-Klassen sind
 > implizit final, d.h. man nicht von Record-Klassen erben.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -207,7 +206,7 @@ Record-Klasse ersetzt, die nur noch 2 Zeilen Code (je nach Code-Style
 auch nur 1 Zeile) benötigt. Gleichzeitig wurde die Les- und Wartbarkeit
 deutlich verbessert.
 
-<img src="images/screenshot_katze.png">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_katze_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_katze_dark.png"><img src="images/screenshot_katze.png"></picture>
 
 ## Wrap-Up
 
@@ -264,13 +263,11 @@ Data”](https://dev.java/learn/using-record-to-model-immutable-data/).
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-LernJava" class="csl-entry">
 >
-> Oracle Corporation. 2022. „Learn Java“. 2022.
-> <https://dev.java/learn/>.
+> Oracle Corporation. 2022. „Learn Java“. <https://dev.java/learn/>.
 >
 > </div>
 >

@@ -25,12 +25,11 @@
 > und die Interaktion/Inspektion zur *Laufzeit* verliert man aber viele
 > Prüfungen, die der Compiler normalerweise zur Compile-Zeit vornimmt.
 > Auch das Refactoring wird dadurch eher schwierig.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -384,7 +383,6 @@ Reflection, wähle diese!**
 > Ihre Operation-Klassen dürfen Sie nicht vorher bekannt machen. Diese
 > müssen in einem vom aktuellen Projekt separierten Ordner/Projekt
 > liegen.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -395,18 +393,17 @@ Reflection, wähle diese!**
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Inden2013" class="csl-entry">
 >
-> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. dpunkt.verlag.
+> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. Dpunkt.verlag.
 >
 > </div>
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> Oracle Corporation. 2022. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

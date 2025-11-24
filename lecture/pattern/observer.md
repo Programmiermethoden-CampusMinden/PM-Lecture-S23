@@ -21,12 +21,11 @@
 > Das “zentrale” Objekt, welches abgefragt wird, nennt man
 > “*Observable*” oder “*Subject*”. Die Objekte, die die Information
 > abfragen möchten, nennt man “*Observer*”.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -37,7 +36,7 @@
 
 ## Verteilung der Prüfungsergebnisse
 
-<img src="images/lsf.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/lsf_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/lsf_dark.png"><img src="images/lsf.png" width="80%"></picture>
 
 Die Studierenden möchten nach einer Prüfung wissen, ob für einen
 bestimmten Kurs die/ihre Prüfungsergebnisse im LSF bereit stehen.
@@ -61,7 +60,7 @@ for (Person p : persons) {
 
 ## Elegantere Lösung: Observer-Entwurfsmuster
 
-<img src="images/observerexample.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/observerexample_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/observerexample_dark.png"><img src="images/observerexample.png" width="80%"></picture>
 
 Sie erstellen im `LSF` eine Methode `register()`, mit der sich
 interessierte Objekte beim `LSF` registrieren können.
@@ -73,7 +72,7 @@ geeignete Methode, die traditionell `update()` genannt wird.
 
 ## Observer-Pattern verallgemeinert
 
-<img src="images/observer.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/observer_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/observer_dark.png"><img src="images/observer.png" width="80%"></picture>
 
 Im vorigen Beispiel wurde die Methode `update()` einfach der gemeinsamen
 Basisklasse `Person` hinzugefügt. Normalerweise möchte man die Aspekte
@@ -195,7 +194,6 @@ Statusänderungen
 > `Grosshandel` verändern, die anderen Vorgaben-Klassen dürfen Sie nicht
 > bearbeiten. Sie können zusätzlich benötigte eigene Klassen/Interfaces
 > implementieren.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -206,8 +204,7 @@ Statusänderungen
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Gamma2011" class="csl-entry">
 >

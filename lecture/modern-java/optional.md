@@ -31,12 +31,11 @@
 > Ersatz für vernünftiges Exception-Handling im Fall, dass etwas
 > Unerwartetes passiert ist. Liefern Sie **niemals** `null` zurück, wenn
 > der Rückgabetyp der Methode ein `Optional` ist!
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -109,7 +108,7 @@ Schauen Sie sich einmal das Review zu den `ecs.components.ai.AITools` in
 https://github.com/Dungeon-CampusMinden/Dungeon/pull/128#pullrequestreview-1254025874
 an.
 
-<img src="images/screenshot_review1.png">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_review1_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_review1_dark.png"><img src="images/screenshot_review1.png"></picture>
 
 Die Methode `AITools#calculateNewPath` soll in der Umgebung einer als
 Parameter übergebenen Entität nach einem Feld (`Tile`) suchen, welches
@@ -189,9 +188,9 @@ Entsprechend hat sich in diesem
 [Review](https://github.com/Dungeon-CampusMinden/Dungeon/pull/128#pullrequestreview-1254025874)
 die nachfolgende Diskussion ergeben:
 
-<img src="images/screenshot_review2.png">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_review2_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_review2_dark.png"><img src="images/screenshot_review2.png"></picture>
 
-<img src="images/screenshot_review3.png">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_review3_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_review3_dark.png"><img src="images/screenshot_review3.png"></picture>
 
 ## Erzeugen von *Optional*-Objekten
 
@@ -452,7 +451,7 @@ Optionals”](https://dev.java/learn/api/streams/optionals/).
 ## 📖 Zum Nachlesen
 
 - Oracle Corporation ([2022](#ref-LernJava))
-- Ullenboom ([2021, Kap. 12.6](#ref-Ullenboom2021))
+- Ullenboom ([2021, 12.6](#ref-Ullenboom2021))
 
 > [!NOTE]
 >
@@ -535,13 +534,11 @@ Optionals”](https://dev.java/learn/api/streams/optionals/).
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-LernJava" class="csl-entry">
 >
-> Oracle Corporation. 2022. „Learn Java“. 2022.
-> <https://dev.java/learn/>.
+> Oracle Corporation. 2022. „Learn Java“. <https://dev.java/learn/>.
 >
 > </div>
 >

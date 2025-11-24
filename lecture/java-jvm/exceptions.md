@@ -43,12 +43,11 @@
 > nutzen. Wenn der Aufrufer vermutlich nichts tun kann, um sich von dem
 > Problem zu erholen, dann sollte man eine unchecked Exception
 > einsetzen.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -97,7 +96,7 @@ if (x.isPresent()) {
 
 ## Vererbungsstruktur *Throwable*
 
-<img src="images/exception.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/exception_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/exception_dark.png"><img src="images/exception.png" width="80%"></picture>
 
 ### *Exception* vs. *Error*
 
@@ -601,7 +600,6 @@ Controversy”](https://dev.java/learn/exceptions/unchecked-exception-controvers
 > Verändern Sie die Vorgaben so, dass die Exceptions an den passenden
 > Stellen gefangen und sinnvoll bearbeitet werden. Begründen Sie Ihre
 > Entscheidungen.
->
 > </details>
 
 ------------------------------------------------------------------------
@@ -612,19 +610,17 @@ Controversy”](https://dev.java/learn/exceptions/unchecked-exception-controvers
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-LernJava" class="csl-entry">
 >
-> Oracle Corporation. 2022a. „Learn Java“. 2022.
-> <https://dev.java/learn/>.
+> Oracle Corporation. 2022a. „Learn Java“. <https://dev.java/learn/>.
 >
 > </div>
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> ———. 2022b. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022b. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

@@ -18,12 +18,11 @@
 > “**Code Smells**” oder “Bad Smells”. Das sind Probleme im Code, die
 > noch nicht direkt zu einem Fehler führen, die aber im Laufe der Zeit
 > die Chance für echte Probleme deutlich erhöht.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -491,8 +490,7 @@ public class CreditsCalculator {
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Fowler2011" class="csl-entry">
 >
@@ -502,13 +500,13 @@ public class CreditsCalculator {
 >
 > <div id="ref-Inden2013" class="csl-entry">
 >
-> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. dpunkt.verlag.
+> Inden, M. 2013. *Der Weg zum Java-Profi*. 2. Aufl. Dpunkt.verlag.
 >
 > </div>
 >
 > <div id="ref-Martin2009" class="csl-entry">
 >
-> Martin, R. 2009. *Clean Code*. mitp.
+> Martin, R. 2009. *Clean Code*. Mitp.
 >
 > </div>
 >
@@ -533,4 +531,4 @@ Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
 - “*Any fool…*”: ([Fowler 2011](#ref-Fowler2011), p. 15)
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> a7fcc94 (tooling: rename 'origin' to 'credits', 2025-08-22)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> a7fcc94 (tooling: rename origin to credits, 2025-08-22)<br></sub></sup></p></blockquote>

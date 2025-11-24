@@ -38,12 +38,11 @@
 > einfaches `git pull` oder `git push` holt dann Änderungen aus dem
 > Remote-Branch in den ausgecheckten lokalen Branch bzw. schiebt
 > Änderungen im lokalen Branch in den Remote-Branch.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -56,7 +55,7 @@
 
 ## Nutzung von Git in Projekten: Verteiltes Git (und Workflows)
 
-<img src="images/distributed.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/distributed_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/distributed_dark.png"><img src="images/distributed.png" width="80%"></picture>
 
 Git ermöglicht eine einfaches Zusammenarbeit in verteilten Teams.
 Nachdem wir die verschiedenen Branching-Strategien betrachtet haben,
@@ -308,7 +307,7 @@ Branch
 
 ## Hinzufügen eines (weiteren) Remote Repository
 
-<img src="images/screenshot_branches.png" width="75%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_branches_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_branches_dark.png"><img src="images/screenshot_branches.png" width="75%"></picture>
 
 Sie können einem Repo beliebig viele Remotes hinzufügen:
 
@@ -396,12 +395,11 @@ Beispiel: `git fetch andi` oder `git push origin master`
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-AtlassianGit" class="csl-entry">
 >
-> Atlassian Pty Ltd. 2022. „Become a Git Guru.“ 2022.
+> Atlassian Pty Ltd. 2022. „Become a Git Guru.“
 > <https://www.atlassian.com/git/tutorials>.
 >
 > </div>
@@ -415,8 +413,7 @@ Beispiel: `git fetch andi` oder `git push origin master`
 >
 > <div id="ref-GitCheatSheet" class="csl-entry">
 >
-> Github Inc. 2022. „Git Cheat Sheets“. 2022.
-> <https://training.github.com/>.
+> Github Inc. 2022. „Git Cheat Sheets“. <https://training.github.com/>.
 >
 > </div>
 >

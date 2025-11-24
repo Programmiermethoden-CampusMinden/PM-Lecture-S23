@@ -15,12 +15,11 @@
 >
 > Bei Arrays ist es genau anders herum: Wenn `U extends O` dann gilt
 > auch `U[] extends O[]` … (Dies nennt man “*kovariantes*” Verhalten.)
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -160,7 +159,7 @@ werden.
 
 ## 📖 Zum Nachlesen
 
-- Ullenboom ([2021, Kap. 11.5](#ref-Ullenboom2021))
+- Ullenboom ([2021, 11.5](#ref-Ullenboom2021))
 - Oracle Corporation ([2022a](#ref-LernJava))
 - Oracle Corporation ([2022b](#ref-Java-SE-Tutorial))
 - Bloch ([2018](#ref-Bloch2018))
@@ -195,8 +194,7 @@ werden.
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Bloch2018" class="csl-entry">
 >
@@ -206,14 +204,13 @@ werden.
 >
 > <div id="ref-LernJava" class="csl-entry">
 >
-> Oracle Corporation. 2022a. „Learn Java“. 2022.
-> <https://dev.java/learn/>.
+> Oracle Corporation. 2022a. „Learn Java“. <https://dev.java/learn/>.
 >
 > </div>
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> ———. 2022b. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022b. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

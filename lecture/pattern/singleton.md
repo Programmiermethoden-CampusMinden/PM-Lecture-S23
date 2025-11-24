@@ -17,12 +17,11 @@
 > Im Prinzip kann man die Instanz direkt beim Laden der Klasse anlegen
 > (“Eager”) oder abwarten, bis die Instanz über die statische Methode
 > angefordert wird, und das Objekt erst dann anlegen (“Lazy”).
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -171,8 +170,7 @@ werden kann
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Nystrom2014" class="csl-entry">
 >

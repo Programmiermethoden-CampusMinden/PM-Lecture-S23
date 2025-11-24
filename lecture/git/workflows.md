@@ -26,12 +26,11 @@
 > eigenen Fork bekommt, trägt man das Hauptprojekt als weiteres Remote
 > in die Workingcopy ein und aktualisiert regelmäßig die Hauptbranches,
 > von denen dann auch die eigenen Feature-Branches ausgehen sollten.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -45,7 +44,7 @@
 
 ## Nutzung von Git in Projekten: Verteiltes Git (und Workflows)
 
-<img src="images/distributed.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/distributed_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/distributed_dark.png"><img src="images/distributed.png" width="80%"></picture>
 
 Git ermöglicht ein einfaches und schnelles Branchen. Dies kann man mit
 entsprechenden Branching-Strategien sinnvoll für die SW-Entwicklung
@@ -60,7 +59,7 @@ die Zusammenarbeit?** Antwort: Workflows mit Git …
 
 ## Zusammenarbeit: Zentraler Workflow mit Git (analog zu SVN)
 
-<img src="images/centralised.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/centralised_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/centralised_dark.png"><img src="images/centralised.png" width="80%"></picture>
 
 In kleinen Projektgruppen wie beispielsweise Ihrer Arbeitsgruppe wird
 häufig ein einfacher zentralisierter Workflow bei der Versionsverwaltung
@@ -84,7 +83,7 @@ alle Teammitglieder gleichberechtigt und direkt pushen dürfen.
 
 ## Zusammenarbeit: Einfacher verteilter Workflow mit Git
 
-<img src="images/workflow_remote.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/workflow_remote_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/workflow_remote_dark.png"><img src="images/workflow_remote.png" width="80%"></picture>
 
 In großen und/oder öffentlichen Projekten wird üblicherweise ein
 Workflow eingesetzt, der auf den Möglichkeiten von verteilten
@@ -247,12 +246,12 @@ soll sich den Code ansehen.
 Hier ein Screenshot der Änderungsansicht unseres Gitlab-Servers
 (SW-Labor):
 
-<img src="images/screenshot_merge-request_code.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_merge-request_code_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_merge-request_code_dark.png"><img src="images/screenshot_merge-request_code.png" width="80%"></picture>
 
 Nachfolgend für den selben MR aus der letzten Abbildung noch die reine
 Diskussionsansicht:
 
-<img src="images/screenshot_merge-request_discussion.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/screenshot_merge-request_discussion_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/screenshot_merge-request_discussion_dark.png"><img src="images/screenshot_merge-request_discussion.png" width="80%"></picture>
 
 ## Best Practices bei Merge-/Pull-Requests
 
@@ -317,7 +316,7 @@ gibt es “*Merge-Requests*” (MR). Bei Github gibt es “*Pull-Requests*”
 
 ## 📖 Zum Nachlesen
 
-- Chacon und Straub ([2014, Kap. 5, 4.8, 6](#ref-Chacon2014))
+- Chacon und Straub ([2014, 5, 4.8, 6](#ref-Chacon2014))
 - Atlassian Pty Ltd ([2022](#ref-AtlassianGit))
 - Github Inc. ([2022](#ref-GitCheatSheet))
 
@@ -361,12 +360,11 @@ gibt es “*Merge-Requests*” (MR). Bei Github gibt es “*Pull-Requests*”
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-AtlassianGit" class="csl-entry">
 >
-> Atlassian Pty Ltd. 2022. „Become a Git Guru.“ 2022.
+> Atlassian Pty Ltd. 2022. „Become a Git Guru.“
 > <https://www.atlassian.com/git/tutorials>.
 >
 > </div>
@@ -380,8 +378,7 @@ gibt es “*Merge-Requests*” (MR). Bei Github gibt es “*Pull-Requests*”
 >
 > <div id="ref-GitCheatSheet" class="csl-entry">
 >
-> Github Inc. 2022. „Git Cheat Sheets“. 2022.
-> <https://training.github.com/>.
+> Github Inc. 2022. „Git Cheat Sheets“. <https://training.github.com/>.
 >
 > </div>
 >

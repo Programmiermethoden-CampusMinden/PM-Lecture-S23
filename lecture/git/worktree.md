@@ -14,12 +14,11 @@
 > als `.git`-Ordner, sondern nur den Link auf die Workingcopy, wodurch
 > viel Platz gespart wird. Damit bilden Git Worktrees eine elegante
 > Möglichkeit, parallel an verschiedenen Branches zu arbeiten.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -82,7 +81,7 @@ Dateisystem)**
 
 ## How to use Git Worktree
 
-<img src="images/linkedworktrees.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/linkedworktrees_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/linkedworktrees_dark.png"><img src="images/linkedworktrees.png" width="80%"></picture>
 
 ## Worktree anlegen
 

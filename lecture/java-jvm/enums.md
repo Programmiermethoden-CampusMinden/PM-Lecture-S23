@@ -17,12 +17,11 @@
 >
 > Es lassen sich auch komplexe Enumerations analog zu Klassendefinition
 > definieren, die eigene Konstruktoren, Felder und Methoden enthalten.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -258,7 +257,7 @@ Enumerationen (s.o.).
 ## 📖 Zum Nachlesen
 
 - Oracle Corporation ([2022](#ref-Java-SE-Tutorial))
-- Ullenboom ([2021, Kap. 6.4.3](#ref-Ullenboom2021) und 10.7)
+- Ullenboom ([2021, 6.4.3](#ref-Ullenboom2021) und 10.7)
 
 > [!NOTE]
 >
@@ -291,12 +290,11 @@ Enumerationen (s.o.).
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Java-SE-Tutorial" class="csl-entry">
 >
-> Oracle Corporation. 2022. „The Java Tutorials“. 2022.
+> Oracle Corporation. 2022. „The Java Tutorials“.
 > <https://docs.oracle.com/javase/tutorial/>.
 >
 > </div>

@@ -30,12 +30,11 @@
 > beispielsweise unterschiedliche Monsterklassen und -eigenschaften
 > ausprobieren kann, ohne den Code neu kompilieren zu müssen. Man kann
 > sogar eine Art “Vererbung” unter den Type-Objects implementieren.
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -405,8 +404,7 @@ Type-Object-Pattern: Implementierung eines eigenen Objekt-Modells
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Gamma2011" class="csl-entry">
 >

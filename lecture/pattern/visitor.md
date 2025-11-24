@@ -51,12 +51,11 @@
 > (erster Dispatch). Da im Visitor die `visit()`-Methoden für jeden Typ
 > der Datenstrukur überladen sind, findet nun zur Laufzeit die Auflösung
 > der korrekten Überladung statt (zweiter Dispatch).
->
 > </details>
 
 > [!TIP]
 >
-> <details>
+> <details open>
 >
 > <summary><strong>🎦 Videos</strong></summary>
 >
@@ -83,11 +82,11 @@ expr : e1=expr '*' e2=expr      # MUL
 
 Beim Parsen von “5\*4+3” würde dabei der folgende Parsetree entstehen:
 
-<img src="images/parsetree.png" width="20%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/parsetree_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/parsetree_dark.png"><img src="images/parsetree.png" width="20%"></picture>
 
 ## Strukturen für den Parsetree
 
-<img src="images/parsetree_classes_uml.png" width="70%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/parsetree_classes_uml_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/parsetree_classes_uml_dark.png"><img src="images/parsetree_classes_uml.png" width="70%"></picture>
 
 Der Parsetree für diese einfache Grammatik ist ein Binärbaum. Die Regeln
 werden auf Knoten im Baum zurückgeführt. Es gibt Knoten mit zwei
@@ -138,7 +137,7 @@ public class DemoExpr {
 Es wäre nun schön, wenn man mit dem Parsetree etwas anfangen könnte.
 Vielleicht möchte man den Ausdruck ausrechnen?
 
-<img src="images/parsetree_eval_uml.png" width="70%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/parsetree_eval_uml_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/parsetree_eval_uml_dark.png"><img src="images/parsetree_eval_uml.png" width="70%"></picture>
 
 Zum Ausrechnen des Ausdrucks könnte man dem Interface eine
 `eval()`-Methode spendieren. Jeder Knoten kann für sich entscheiden, wie
@@ -195,7 +194,7 @@ public class DemoExpr {
 Nachdem das Ausrechnen so gut geklappt hat, will der Chef nun noch flink
 eine Funktion, mit der man den Ausdruck hübsch ausgeben kann:
 
-<img src="images/parsetree_eval_print_uml.png" width="70%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/parsetree_eval_print_uml_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/parsetree_eval_print_uml_dark.png"><img src="images/parsetree_eval_print_uml.png" width="70%"></picture>
 
 Das fängt an, sich zu wiederholen. Wir implementieren immer wieder
 ähnliche Strukturen, mit denen wir diesen Parsetree traversieren … Und
@@ -208,7 +207,7 @@ anpassen!
 
 ## Visitor-Pattern (Besucher-Entwurfsmuster)
 
-<img src="images/visitor.png" width="80%">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/visitor_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/visitor_dark.png"><img src="images/visitor.png" width="80%"></picture>
 
 Das Entwurfsmuster “Besucher” (*Visitor Pattern*) lagert die Aktion beim
 Besuchen eines Knotens in eine separate Klasse aus.
@@ -377,7 +376,7 @@ implementieren.
 
 ## Ausrechnen des Ausdrucks mit einem Visitor
 
-<img src="images/parsetree_visitor_uml.png">
+<picture><source media="(prefers-color-scheme: light)" srcset="images/parsetree_visitor_uml_light.png"><source media="(prefers-color-scheme: dark)" srcset="images/parsetree_visitor_uml_dark.png"><img src="images/parsetree_visitor_uml.png"></picture>
 
 <p align="right"><a href="https://github.com/Programmiermethoden-CampusMinden/PM-Lecture/blob/master/markdown/pattern/src/visitor/visit/extrav/DemoExpr.java">Demo: visitor.visit.extrav.DemoExpr</a></p>
 
@@ -508,8 +507,7 @@ Klassenstruktur
 >
 > <summary><strong>👀 Quellen</strong></summary>
 >
-> <div id="refs" class="references csl-bib-body hanging-indent"
-> entry-spacing="0">
+> <div id="refs" class="references csl-bib-body hanging-indent">
 >
 > <div id="ref-Eilebrecht2013" class="csl-entry">
 >
